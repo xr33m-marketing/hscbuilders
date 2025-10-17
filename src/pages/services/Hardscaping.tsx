@@ -140,11 +140,6 @@ const Hardscaping: React.FC = () => {
       images: [
         "/HSC-patio-landscaping.webp",
         "/Patio-HSC-Landscaping-services.webp",
-        "/patio-HSC_landscaping.webp"
-      ],
-      images: [
-        "/HSC-patio-landscaping.webp",
-        "/Patio-HSC-Landscaping-services.webp", 
         "/patio-HSC_landscaping.webp",
         "/patio-landscaping-HSC.webp",
         "/landscaping-HSC-patio.webp"
@@ -223,9 +218,7 @@ const Hardscaping: React.FC = () => {
         "/HSC-path-Hardscaping-Services.webp",
         "/HSC-Hardscaping-Steps-Services.webp",
         "/Steps-Services-HArdscaping-HSC.webp",
-        "/Steps-Hardscaping-Services-HSC.webp"
-      ],
-      images: [
+        "/Steps-Hardscaping-Services-HSC.webp",
         "/Hardscaping-HSC-house-extension.webp",
         "/house-extension-HSC-Hardscaping.webp",
         "/HSC-House-Extension-Hardscaping.webp"
