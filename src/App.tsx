@@ -16,6 +16,8 @@ import BothwellLandscaping from './pages/areas/BothwellLandscaping';
 import HamiltonLandscaping from './pages/areas/HamiltonLandscaping';
 import NewtonFarmLandscaping from './pages/areas/NewtonFarmLandscaping';
 import JacktonDriveways from './pages/areas/JacktonDriveways';
+import BothwellDriveways from './pages/areas/BothwellDriveways';
+import HamiltonDriveways from './pages/areas/HamiltonDriveways';
 import BothwellHardscaping from './pages/areas/BothwellHardscaping';
 import HamiltonHardscaping from './pages/areas/HamiltonHardscaping';
 import NewtonFarmHardscaping from './pages/areas/NewtonFarmHardscaping';
@@ -107,6 +109,10 @@ function App() {
         return <NewtonFarmLandscaping />;
       case '/areas/jackton-driveways':
         return <JacktonDriveways />;
+      case '/areas/bothwell-driveways':
+        return <BothwellDriveways />;
+      case '/areas/hamilton-driveways':
+        return <HamiltonDriveways />;
       case '/areas/bothwell-hardscaping':
         return <BothwellHardscaping />;
       case '/areas/hamilton-hardscaping':
