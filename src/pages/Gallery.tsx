@@ -146,7 +146,7 @@ const Gallery: React.FC = () => {
     {
       title: "Masonry Wall Before",
       before: "/wall-before-HSC-MASONRY (1) copy.webp",
-      after: "/WALl-after-HSC_MASONRY (1) copy.webp",
+      after: "/WALl-after-HSC_MASONRY (2).webp",
       alt: "Masonry wall restoration transformation"
     }
   ];
