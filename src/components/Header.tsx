@@ -3,6 +3,17 @@ import { Menu, X, Triangle } from 'lucide-react';
 
 const Header: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  React.useEffect(() => {
+    if (isMenuOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'unset';
+    }
+    return () => {
+      document.body.style.overflow = 'unset';
+    };
+  }, [isMenuOpen]);
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
   const [activeSubDropdown, setActiveSubDropdown] = useState<string | null>(null);
 
@@ -213,7 +224,7 @@ const Header: React.FC = () => {
 
         {/* Mobile Navigation */}
         {isMenuOpen && (
-          <div className="lg:hidden border-t border-white border-opacity-20 bg-black">
+          <div className="lg:hidden fixed inset-0 top-20 bg-black z-40 overflow-y-auto">
             <div className="px-2 pt-2 pb-3 space-y-1">
               {navigationItems.map((item) => (
               <div key={item.name}>
@@ -234,29 +245,6 @@ const Header: React.FC = () => {
                         >
                           {dropdownItem.name}
                         </a>
-                        {dropdownItem.hasSubDropdown && dropdownItem.subDropdownItems && (
-                          <div className="ml-4 mt-1 space-y-1">
-                            {dropdownItem.subDropdownItems.map((subItem) => (
-                              subItem.isHeader ? (
-                                <div key={subItem.name} className="px-3 py-1 text-primary-accent font-semibold text-xs uppercase tracking-wide">
-                                  {subItem.name}
-                                </div>
-                              ) : (
-                                <a
-                                  key={subItem.name}
-                                  href={subItem.href}
-                                  className="block px-3 py-1 text-xs font-medium text-gray-300 hover:text-primary-accent hover:bg-white hover:bg-opacity-10 rounded transition-colors duration-200"
-                                  onClick={() => {
-                                    scrollToTop();
-                                    setIsMenuOpen(false);
-                                  }}
-                                >
-                                  {subItem.name}
-                                </a>
-                              )
-                            ))}
-                          </div>
-                        )}
                       </div>
                     ))}
                   </div>
