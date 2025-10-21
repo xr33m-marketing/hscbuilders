@@ -17,7 +17,7 @@ const RecentProjectsSection = () => {
     {
       title: "Patio Installation",
       description: "Professional patio construction",
-      image: "/Patios-hoe-projects-HSC (1) copy.webp",
+      image: "/Patios-hoe-projects-HSC (1).webp",
       icon: <Hammer size={24} className="text-white" />,
       link: "#/services/hardscaping",
       location: "Greater Glasgow"

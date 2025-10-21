@@ -214,7 +214,7 @@ const Landscaping: React.FC = () => {
       images: [
         "/art-turf-home-projects-HSC (1).webp",
         "/artificial-turf-HSC-Service (1) copy.webp",
-        "/turf-artificial-HSC-Service (1) copy.webp"
+        "/turf-artificial-HSC-Service (1).webp"
       ],
       image: "/art-turf-home-projects-HSC (1).webp",
       link: "#/services/landscaping"
@@ -338,7 +338,7 @@ const Landscaping: React.FC = () => {
       },
       images: [
         "/Pathway-monoblock-HSC-Landscaping (1) copy.webp",
-        "/Monoblock-Pathway-HSC-Landscaping (1) copy.webp",
+        "/Monoblock-Pathway-HSC-Landscaping (1).webp",
         "/pathway-HSC-Monoblock (1) copy.webp",
         "/monoblock-stairs-landscaping-HSC (1) copy.webp"
       ],

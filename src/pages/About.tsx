@@ -185,7 +185,7 @@ const About: React.FC = () => {
 
             <div className="relative">
               <img
-                src="/About-at-work-HSC (1) copy.webp"
+                src="/About-at-work-HSC (1).webp"
                 alt="HSC Builders team at work on site"
                 className="w-full h-96 object-cover rounded-xl shadow-card"
               />

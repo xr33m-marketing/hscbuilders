@@ -64,7 +64,7 @@ const HamiltonHardscaping: React.FC = () => {
     },
     {
       title: "Block Paving Project 2",
-      after: "/Hardscaping-HSC-Block-Paving (1) copy.webp",
+      after: "/Hardscaping-HSC-Block-Paving (1).webp",
       alt: "Professional driveway construction"
     },
     {

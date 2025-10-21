@@ -55,7 +55,7 @@ const Gallery: React.FC = () => {
     },
     {
       title: "Garden Patio Project",
-     before: "/HSC-Before-Gallery-Patios (1) copy.webp",
+     before: "/HSC-Before-Gallery-Patios (1).webp",
       after: "/patio-HSC_landscaping (1) copy.webp",
       alt: "Garden patio with surrounding landscaping"
     },
@@ -80,7 +80,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Family Patio Space", 
      before: "/Before-patios-HSC-Gallery (1) copy.webp",
-      after: "/Patios-hoe-projects-HSC (1) copy.webp",
+      after: "/Patios-hoe-projects-HSC (1).webp",
       alt: "Family-friendly patio installation"
     },
     { 
@@ -114,9 +114,9 @@ const Gallery: React.FC = () => {
       images: [
         "/Pathway-monoblock-HSC-Landscaping (1) copy.webp",
         "/HSC-Hardscaping-Block-Paving.webp",
-        "/Hardscaping-HSC-Block-Paving (1) copy.webp"
+        "/Hardscaping-HSC-Block-Paving (1).webp"
       ],
-      after: "/Hardscaping-HSC-Block-Paving (1) copy.webp",
+      after: "/Hardscaping-HSC-Block-Paving (1).webp",
       alt: "Professional block paving installation"
     },
     { 
@@ -198,7 +198,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Turf Installation Service", 
      before: "/HSC-Art-turf-Before-Gallery (1) copy.webp",
-      after: "/turf-artificial-HSC-Service (1) copy.webp",
+      after: "/turf-artificial-HSC-Service (1).webp",
       alt: "Professional turf installation service"
     }
   ];
@@ -258,8 +258,8 @@ const Gallery: React.FC = () => {
       after: "/GAllery-HSC-After-Full-Transformation (1).webp",
       images: [
         "/Full-Transformation-HSC-After-Gallery (1) copy copy.webp",
-        "/HSC-Gallery-Full-TRansformation (1) copy.webp",
-        "/Full-Transformtation-HSC (1) copy.webp",
+        "/HSC-Gallery-Full-TRansformation (1).webp",
+        "/Full-Transformtation-HSC (1).webp",
         "/restoration-After-HSC-Masonry (1) copy.webp",
         "/Full-Transfromation-HSC-Landscapinig (1) copy.webp",
         "/HSC-Full-Landscaping-Gallery (1) copy.webp"
