@@ -64,7 +64,7 @@ const JacktonDriveways: React.FC = () => {
     },
     {
       title: "Block Paving Project 3",
-      after: "/Block-paving-HSC-Hardscaping (1) copy.webp",
+      after: "/Block-paving-HSC-Hardscaping (1).webp",
       alt: "Expert block paving work"
     },
     {

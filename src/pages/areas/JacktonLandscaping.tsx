@@ -72,7 +72,7 @@ const JacktonLandscaping: React.FC = () => {
     },
     {
       title: "Garden Design & Planting",
-      after: "/garden-bed-planting-HSC (1) copy.webp",
+      after: "/garden-bed-planting-HSC (1).webp",
       alt: "Professional garden design and planting"
     }
   ];

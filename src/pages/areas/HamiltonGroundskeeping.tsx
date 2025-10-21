@@ -54,12 +54,12 @@ const HamiltonGroundskeeping: React.FC = () => {
   const hamiltonProjects: Project[] = [
     {
       title: "Hedge Trimming",
-      after: "/hedge-trimming-HSC (1) copy.webp",
+      after: "/hedge-trimming-HSC (1).webp",
       alt: "Professional hedge trimming services"
     },
     {
       title: "Garden Bed Maintenance",
-      after: "/garden-bed-planting-HSC (1) copy.webp",
+      after: "/garden-bed-planting-HSC (1).webp",
       alt: "Expert garden bed care"
     },
     {
