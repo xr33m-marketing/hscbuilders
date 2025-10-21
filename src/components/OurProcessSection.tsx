@@ -226,7 +226,7 @@ export default function OurProcessSection() {
       step: "Final Walkthrough",
       title: "Quality Inspection & Handover",
       content: "We conduct a thorough walkthrough with you, ensure everything meets our high standards, provide maintenance instructions, and guarantee your complete satisfaction.",
-      image: "/handover-step5-HSC (1) copy.webp"
+      image: "/handover-step5-HSC (1).webp"
     }
   ]
 

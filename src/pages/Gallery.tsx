@@ -104,7 +104,7 @@ const Gallery: React.FC = () => {
       images: [
         "/HSC-Block-Paving-Hardscaping (1).webp",
         "/Block-paving-Hardscaping-HSC (1).webp",
-        "/garden-bed-planting-HSC (1) copy.webp"
+        "/garden-bed-planting-HSC (1).webp"
       ],
       after: "/HSC-Block-Paving-Hardscaping (1).webp",
       alt: "High-quality block paving driveway"
@@ -165,7 +165,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Hardscaping Steps", 
-     before: "/Steps-Before-HSC-Gallery (1) copy.webp",
+     before: "/Steps-Before-HSC-Gallery (1).webp",
       after: "/HSC-Hardscaping-Steps-Services (1) copy.webp",
       alt: "Hardscaping steps with professional finish"
     },
@@ -219,7 +219,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Garden Bed Maintenance", 
-      after: "/garden-bed-planting-HSC (1) copy.webp",
+      after: "/garden-bed-planting-HSC (1).webp",
       alt: "Professional garden bed planting and maintenance"
     },
   ];

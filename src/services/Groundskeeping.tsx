@@ -65,7 +65,7 @@ const Groundskeeping: React.FC = () => {
         ],
         benefits: "Professional hedge trimming promotes healthy growth, maintains property boundaries, and enhances curb appeal. Regular pruning prevents overgrowth issues and keeps hedges dense and attractive throughout the growing season."
       },
-      image: "/hedge-trimming-HSC (1) copy.webp",
+      image: "/hedge-trimming-HSC (1).webp",
       link: "#/services/groundskeeping"
     },
     {
@@ -84,7 +84,7 @@ const Groundskeeping: React.FC = () => {
         ],
         benefits: "Professional garden bed maintenance ensures healthy plant growth, reduces weed problems, and maintains attractive displays throughout the growing season. Regular care prevents costly plant replacement and soil degradation."
       },
-      image: "/garden-bed-planting-HSC (1) copy.webp",
+      image: "/garden-bed-planting-HSC (1).webp",
       link: "#/services/groundskeeping"
     },
     {
@@ -126,7 +126,7 @@ const Groundskeeping: React.FC = () => {
         ],
         benefits: "Professional weed control maintains healthy lawns and gardens while preventing weed competition for nutrients and water. Our targeted approach minimizes environmental impact while maximizing effectiveness."
       },
-      image: "/weed-removal-HSC-GroundsKEEPING (2) copy.webp",
+      image: "/weed-removal-HSC-GroundsKEEPING (2).webp",
       link: "#/services/groundskeeping"
     },
     {

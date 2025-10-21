@@ -23,7 +23,7 @@ const landscapingServices = [
       ],
       benefits: "Professional garden design creates year-round interest and increases property value. Our plant selections are chosen for Scottish conditions, ensuring healthy growth and reduced maintenance while providing seasonal color and texture."
     },
-    image: "/garden-bed-planting-HSC (1) copy.webp",
+    image: "/garden-bed-planting-HSC (1).webp",
     link: "#/services/landscaping"
   },
   {
@@ -313,7 +313,7 @@ const Landscaping: React.FC = () => {
       images: [
         "/HSC-Landscaping-Full-Renovation (1) copy.webp",
         "/Landscaping-Full-Renovation-HS (1) copy.webp",
-        "/Full-Renovation-LAndscaping-HSC (1) copy.webp",
+        "/Full-Renovation-LAndscaping-HSC (1).webp",
         "/Full-Renovation-HSC-Landscaping (1) copy.webp",
         "/Landscaping-HSC-Full-Transformation (1) copy.webp"
       ],

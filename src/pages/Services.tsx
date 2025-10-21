@@ -77,7 +77,7 @@ const Services: React.FC = () => {
         "Garden renovation"
       ],
       link: "#/services/garden-design",
-      image: "/garden-bed-planting-HSC (1) copy.webp"
+      image: "/garden-bed-planting-HSC (1).webp"
     },
     {
       icon: <Wrench className="w-12 h-12 text-primary-accent" />,
