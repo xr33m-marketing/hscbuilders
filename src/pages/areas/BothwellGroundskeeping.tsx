@@ -71,7 +71,7 @@ const BothwellGroundskeeping: React.FC = () => {
     {
       title: "Property Maintenance",
       before: "/groundskeepning-cleanup-HSC-BEFORE (1).webp",
-      after: "/Groundskeeping-HSC-cleanup-AFTER (1) copy.webp",
+      after: "/Groundskeeping-HSC-cleanup-AFTER (1).webp",
       alt: "Professional property upkeep"
     }
   ];
