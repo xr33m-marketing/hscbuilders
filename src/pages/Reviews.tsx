@@ -317,7 +317,7 @@ const Reviews: React.FC = () => {
                   "/hardscaping-hero-HSC (1).webp",
                   "/groundskeeping-home-HSC (1).webp",
                   "/HSC-patio-landscaping (1).webp",
-                  "/Patio-HSC-Landscaping-services (1) copy.webp",
+                  "/Patio-HSC-Landscaping-services (1).webp",
                   "/HSC-landscaping-HSC (1).webp",
                   "/patio-landscaping-HSC.webp",
                   "/landscaping-HSC-patio (1).webp",
@@ -334,7 +334,7 @@ const Reviews: React.FC = () => {
                   "/HSC-Hardscaping-Steps-Services (1).webp",
                   "/Steps-Services-HArdscaping-HSC (1).webp",
                   "/Steps-Hardscaping-Services-HSC (1).webp",
-                  "/Compostite-fencing-HSC-home (1) copy.webp",
+                  "/Compostite-fencing-HSC-home (1).webp",
                   "/fencing-home-projects-HSC (1).webp",
                   "/HSC-fencing-SERVICES (1).webp",
                   "/SERVICES-fencing-HSC (1).webp",
@@ -347,7 +347,7 @@ const Reviews: React.FC = () => {
                   "/hedge-trimming-HSC.webp",
                   "/weed-removal-HSC-GroundsKEEPING.webp",
                   "/HSC-Maintenance-AFTER (1).webp",
-                  "/Groundskeeping-HSC-cleanup-AFTER (1) copy.webp"
+                  "/Groundskeeping-HSC-cleanup-AFTER (1).webp"
                 ].map((image, index) => (
                   <div
                     key={index}

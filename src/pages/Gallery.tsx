@@ -11,7 +11,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Composite Fencing Installation",
      before: "/fencing-BEFORE-HSC-Gallery (1).webp",
-     after: "/Compostite-fencing-HSC-home (1) copy.webp",
+     after: "/Compostite-fencing-HSC-home (1).webp",
      alt: "Modern composite fencing installation transformation"
     },
     { 
@@ -50,7 +50,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Modern Patio Design", 
      before: "/HSC-Patio-Before-Gallery (1).webp",
-      after: "/Patio-HSC-Landscaping-services (1) copy.webp",
+      after: "/Patio-HSC-Landscaping-services (1).webp",
       alt: "Contemporary patio with professional finishing"
     },
     {
@@ -207,14 +207,14 @@ const Gallery: React.FC = () => {
   const maintenance: Project[] = [
     { 
       title: "Garden Maintenance", 
-      before: "/HSC-Maintenance-before copy.webp",
-      after: "/HSC-Maintenance-AFTER copy.webp",
+      before: "/HSC-Maintenance-before.webp",
+      after: "/HSC-Maintenance-AFTER.webp",
       alt: "Professional garden maintenance transformation"
     },
     { 
       title: "Groundskeeping Cleanup", 
       before: "/groundskeepning-cleanup-HSC-BEFORE (1).webp",
-      after: "/Groundskeeping-HSC-cleanup-AFTER (1) copy.webp",
+      after: "/Groundskeeping-HSC-cleanup-AFTER (1).webp",
       alt: "Complete groundskeeping cleanup service"
     },
     { 
@@ -228,7 +228,7 @@ const Gallery: React.FC = () => {
   const transformations: Project[] = [
     { 
       title: "Complete Landscape Renovation", 
-      after: "/Landscaping-Full-Renovation-HS (1) copy.webp",
+      after: "/Landscaping-Full-Renovation-HS (1).webp",
       alt: "Complete landscape renovation project"
     },
     { 
@@ -248,13 +248,13 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Complete Transformation", 
-     before: "/full-transformation-HSC-Before (1) copy.webp",
+     before: "/full-transformation-HSC-Before (1).webp",
       after: "/Landscaping-HSC-Full-Transformation (1).webp",
      alt: "Complete landscape transformation project transformation"
     },
     {
       title: "Full Garden Transformation",
-     before: "/HSC-full-transformation-Before (1) copy.webp",
+     before: "/HSC-full-transformation-Before (1).webp",
       after: "/GAllery-HSC-After-Full-Transformation (1).webp",
       images: [
         "/Full-Transformation-HSC-After-Gallery (1).webp",
@@ -269,7 +269,7 @@ const Gallery: React.FC = () => {
     {
       title: "Complete Landscaping Project",
       before: "/Full-Landscaping-HSC-Gallery (1).webp",
-      after: "/landscaping-hero-hsc (1) copy.webp",
+      after: "/landscaping-hero-hsc (1).webp",
       alt: "Complete landscaping transformation with modern outdoor design"
     }
   ];

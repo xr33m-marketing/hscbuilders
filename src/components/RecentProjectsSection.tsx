@@ -9,7 +9,7 @@ const RecentProjectsSection = () => {
     {
       title: "Fencing Installation",
       description: "Premium composite fencing solution",
-      image: "/Compostite-fencing-HSC-home (1) copy.webp",
+      image: "/Compostite-fencing-HSC-home (1).webp",
       icon: <Hammer size={24} className="text-white" />,
       link: "#/services/landscaping",
       location: "Greater Glasgow"

@@ -65,7 +65,7 @@ const landscapingServices = [
       ],
       benefits: "Composite decking provides long-lasting outdoor living spaces with minimal maintenance requirements. Our installations resist weathering, fading, and require no annual staining or sealing."
     },
-    image: "/landscaping-hero-hsc (1) copy.webp",
+    image: "/landscaping-hero-hsc (1).webp",
     link: "#/services/landscaping"
   },
   {
@@ -260,10 +260,10 @@ const Landscaping: React.FC = () => {
       },
       beforeAfterImages: {
         before: "/fencing-BEFORE-HSC-Gallery (1).webp",
-        after: "/Compostite-fencing-HSC-home (1) copy.webp"
+        after: "/Compostite-fencing-HSC-home (1).webp"
       },
       images: [
-        "/Compostite-fencing-HSC-home (1) copy.webp",
+        "/Compostite-fencing-HSC-home (1).webp",
         "/fencing-home-projects-HSC (1).webp",
         "/HSC-fencing-SERVICES (1).webp",
         "/SERVICES-fencing-HSC (1).webp",
@@ -288,7 +288,7 @@ const Landscaping: React.FC = () => {
         ],
         benefits: "Professional decking creates valuable outdoor living space that extends your home's usable area. Our installations provide a durable, attractive platform for outdoor entertaining and relaxation."
       },
-      image: "/landscaping-hero-hsc (1) copy.webp",
+      image: "/landscaping-hero-hsc (1).webp",
       link: "#/services/landscaping"
     },
     {
@@ -312,7 +312,7 @@ const Landscaping: React.FC = () => {
       },
       images: [
         "/HSC-Landscaping-Full-Renovation (1).webp",
-        "/Landscaping-Full-Renovation-HS (1) copy.webp",
+        "/Landscaping-Full-Renovation-HS (1).webp",
         "/Full-Renovation-LAndscaping-HSC (1).webp",
         "/Full-Renovation-HSC-Landscaping (1).webp",
         "/Landscaping-HSC-Full-Transformation (1).webp"
