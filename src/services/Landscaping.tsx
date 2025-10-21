@@ -340,7 +340,7 @@ const Landscaping: React.FC = () => {
         "/Pathway-monoblock-HSC-Landscaping (1).webp",
         "/Monoblock-Pathway-HSC-Landscaping (1).webp",
         "/pathway-HSC-Monoblock (1).webp",
-        "/monoblock-stairs-landscaping-HSC (1) copy.webp"
+        "/monoblock-stairs-landscaping-HSC (1).webp"
       ],
       image: "/Pathway-monoblock-HSC-Landscaping (1).webp",
       link: "#/services/landscaping"

@@ -240,7 +240,7 @@ const Gallery: React.FC = () => {
       title: "Complete Garden Renovation",
       images: [
         "/Gallery-HSC-After-Landscaping (2).webp",
-        "/After-HSC-full-landscapiing-GAllery (1) copy.webp",
+        "/After-HSC-full-landscapiing-GAllery (1).webp",
         "/HSC-After-Landscaping-Gallery (1).webp"
       ],
       after: "/Gallery-HSC-After-Landscaping (2).webp",
@@ -281,7 +281,7 @@ const Gallery: React.FC = () => {
         <div 
           className="absolute inset-0 w-full h-full"
           style={{
-            backgroundImage: `url('/areas-hero-HSC (1) copy.webp')`,
+            backgroundImage: `url('/areas-hero-HSC (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'

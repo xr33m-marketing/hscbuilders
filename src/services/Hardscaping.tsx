@@ -216,7 +216,7 @@ const Hardscaping: React.FC = () => {
       images: [
         "/Hardscaping-HSC-house-extension (1).webp",
         "/house-extension-HSC-Hardscaping (1).webp",
-        "/HSC-House-Extension-Hardscaping (1) copy.webp"
+        "/HSC-House-Extension-Hardscaping (1).webp"
       ],
       image: "/hardscaping-hero-HSC (1).webp",
       link: "#/services/hardscaping"

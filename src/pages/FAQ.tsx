@@ -104,7 +104,7 @@ const FAQ: React.FC = () => {
         <div 
           className="absolute inset-0 w-full h-full"
           style={{
-            backgroundImage: `url('/areas-hero-HSC (1) copy.webp')`,
+            backgroundImage: `url('/areas-hero-HSC (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'

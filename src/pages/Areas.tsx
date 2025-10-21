@@ -77,7 +77,7 @@ const Areas: React.FC = () => {
         <div 
           className="absolute inset-0 w-full h-full"
           style={{
-            backgroundImage: `url('/areas-hero-HSC (1) copy.webp')`,
+            backgroundImage: `url('/areas-hero-HSC (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
@@ -263,7 +263,7 @@ const Areas: React.FC = () => {
                   "/weed-removal-HSC-GroundsKEEPING.webp",
                   "/HSC-Maintenance-AFTER (1).webp",
                   "/Groundskeeping-HSC-cleanup-AFTER (1) copy.webp",
-                  "/monoblock-stairs-landscaping-HSC (1) copy.webp",
+                  "/monoblock-stairs-landscaping-HSC (1).webp",
                   "/Monoblock-Pathway-HSC-Landscaping.webp",
                   "/Pathway-monoblock-HSC-Landscaping (1).webp",
                   "/pathway-HSC-Monoblock (1).webp",
@@ -276,7 +276,7 @@ const Areas: React.FC = () => {
                   "/drainage-HSC-HArdscaping (1).webp",
                   "/Hardscaping-HSC-house-extension (1).webp",
                   "/house-extension-HSC-Hardscaping (1).webp",
-                  "/HSC-House-Extension-Hardscaping (1) copy.webp",
+                  "/HSC-House-Extension-Hardscaping (1).webp",
                   // Duplicate for seamless loop
                   "/landscaping-hero-hsc.webp",
                   "/hardscaping-hero-HSC (1).webp",
@@ -321,7 +321,7 @@ const Areas: React.FC = () => {
                   "/weed-removal-HSC-GroundsKEEPING.webp",
                   "/HSC-Maintenance-AFTER (1).webp",
                   "/Groundskeeping-HSC-cleanup-AFTER (1) copy.webp",
-                  "/monoblock-stairs-landscaping-HSC (1) copy.webp",
+                  "/monoblock-stairs-landscaping-HSC (1).webp",
                   "/Monoblock-Pathway-HSC-Landscaping.webp",
                   "/Pathway-monoblock-HSC-Landscaping (1).webp",
                   "/pathway-HSC-Monoblock (1).webp",
