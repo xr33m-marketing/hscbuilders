@@ -1,0 +1,16 @@
+{
+  "name": "HSC Builders Glasgow",
+  "short_name": "HSC Builders",
+  "description": "Expert landscaping, hardscaping & groundskeeping services in Glasgow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/hsc-logo copy copy.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    }
+  ]
+}
