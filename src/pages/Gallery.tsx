@@ -8,10 +8,10 @@ import ReviewsSection from '../components/TestimonialsSection';
 const Gallery: React.FC = () => {
   // Fencing Projects
   const fencing: Project[] = [
-    { 
-      title: "Composite Fencing Installation",
+    {
+      title: "Fencing Installation",
      before: "/fencing-BEFORE-HSC-Gallery (1).webp",
-     after: "/Compostite-fencing-HSC-home (1).webp",
+     after: "/Compostite-fencing-HSC-home (1) copy.webp",
      alt: "Modern composite fencing installation transformation"
     },
     { 
