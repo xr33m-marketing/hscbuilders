@@ -1,0 +1,9 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hscbuilders.co.uk/sitemap.xml
+
+# Crawl-delay to be respectful (optional)
+Crawl-delay: 1
