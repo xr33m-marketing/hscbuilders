@@ -166,7 +166,7 @@ const MasonryBrickwork: React.FC = () => {
       },
       images: [
         "/HSC-wall-Glasgow-landscaping (1).webp",
-        "/wall-HSC-Landscaping-Glasgow (1) copy.webp",
+        "/wall-HSC-Landscaping-Glasgow (1).webp",
         "/Glasgow-walls-HSC-landscaping (1).webp"
       ],
       image: "/HSC-wall-Glasgow-landscaping (1).webp",
@@ -189,13 +189,13 @@ const MasonryBrickwork: React.FC = () => {
         benefits: "Well-constructed steps improve property accessibility and safety while adding architectural interest. Our installations include proper drainage, non-slip surfaces, and compliance with building regulations for long-term durability."
       },
       images: [
-        "/HSC-STEPS-Services-Hardscaping (1) copy.webp",
-        "/HSC-path-Hardscaping-Services (1) copy.webp",
+        "/HSC-STEPS-Services-Hardscaping (1).webp",
+        "/HSC-path-Hardscaping-Services (1).webp",
         "/HSC-Hardscaping-Steps-Services (1) copy.webp",
         "/Steps-Services-HArdscaping-HSC (1).webp",
         "/Steps-Hardscaping-Services-HSC (1) copy.webp"
       ],
-      image: "/HSC-STEPS-Services-Hardscaping (1) copy.webp",
+      image: "/HSC-STEPS-Services-Hardscaping (1).webp",
       link: "#/services/masonry-brickwork"
     },
     {

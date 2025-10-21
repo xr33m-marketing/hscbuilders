@@ -59,7 +59,7 @@ const JacktonMasonry: React.FC = () => {
     },
     {
       title: "Garden Steps & Staircases",
-      after: "/HSC-STEPS-Services-Hardscaping (1) copy.webp",
+      after: "/HSC-STEPS-Services-Hardscaping (1).webp",
       alt: "Professional garden steps construction"
     },
     {
@@ -70,7 +70,7 @@ const JacktonMasonry: React.FC = () => {
     },
     {
       title: "Wall Construction",
-      after: "/wall-HSC-Landscaping-Glasgow (1) copy.webp",
+      after: "/wall-HSC-Landscaping-Glasgow (1).webp",
       alt: "Quality wall construction services"
     }
   ];

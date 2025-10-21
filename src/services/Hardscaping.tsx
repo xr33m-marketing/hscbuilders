@@ -142,7 +142,7 @@ const Hardscaping: React.FC = () => {
         "/Patio-HSC-Landscaping-services (1) copy.webp",
         "/patio-HSC_landscaping (1).webp",
         "/patio-landscaping-HSC (1).webp",
-        "/landscaping-HSC-patio (1) copy.webp"
+        "/landscaping-HSC-patio (1).webp"
       ],
       image: "/HSC-patio-landscaping (1).webp",
       link: "#/services/hardscaping"
@@ -191,7 +191,7 @@ const Hardscaping: React.FC = () => {
       },
       images: [
         "/HSC-wall-Glasgow-landscaping (1).webp",
-        "/wall-HSC-Landscaping-Glasgow (1) copy.webp",
+        "/wall-HSC-Landscaping-Glasgow (1).webp",
         "/Glasgow-walls-HSC-landscaping (1).webp"
       ],
       image: "/hardscaping-hero-HSC (1).webp",
@@ -238,7 +238,7 @@ const Hardscaping: React.FC = () => {
         benefits: "Effective drainage systems protect hardscaping investments by preventing water damage, frost damage, and structural issues. Our solutions ensure long-term durability and prevent costly repairs while managing Scottish rainfall effectively."
       },
       images: [
-        "/HSC-drainage-Hardscaping (1) copy.webp",
+        "/HSC-drainage-Hardscaping (1).webp",
         "/drainage-HSC-HArdscaping (1).webp"
       ],
       image: "/hardscaping-hero-HSC (1).webp",

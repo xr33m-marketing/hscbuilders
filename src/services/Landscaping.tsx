@@ -44,7 +44,7 @@ const landscapingServices = [
     },
     images: [
       "/art-turf-home-projects-HSC (1).webp",
-      "/artificial-turf-HSC-Service (1) copy.webp"
+      "/artificial-turf-HSC-Service (1).webp"
     ],
     image: "/art-turf-home-projects-HSC (1).webp",
     link: "#/services/landscaping"
@@ -213,7 +213,7 @@ const Landscaping: React.FC = () => {
       },
       images: [
         "/art-turf-home-projects-HSC (1).webp",
-        "/artificial-turf-HSC-Service (1) copy.webp",
+        "/artificial-turf-HSC-Service (1).webp",
         "/turf-artificial-HSC-Service (1).webp"
       ],
       image: "/art-turf-home-projects-HSC (1).webp",
@@ -314,7 +314,7 @@ const Landscaping: React.FC = () => {
         "/HSC-Landscaping-Full-Renovation (1).webp",
         "/Landscaping-Full-Renovation-HS (1) copy.webp",
         "/Full-Renovation-LAndscaping-HSC (1).webp",
-        "/Full-Renovation-HSC-Landscaping (1) copy.webp",
+        "/Full-Renovation-HSC-Landscaping (1).webp",
         "/Landscaping-HSC-Full-Transformation (1).webp"
       ],
       image: "/HSC-Landscaping-Full-Renovation (1).webp",

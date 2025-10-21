@@ -62,7 +62,7 @@ const Services: React.FC = () => {
         "Leak detection & repair"
       ],
       link: "#/services/irrigation",
-      image: "/HSC-drainage-Hardscaping (1) copy.webp"
+      image: "/HSC-drainage-Hardscaping (1).webp"
     },
     {
       icon: <Flower className="w-12 h-12 text-primary-accent" />,

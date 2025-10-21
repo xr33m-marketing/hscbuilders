@@ -88,11 +88,11 @@ const Gallery: React.FC = () => {
       images: [
         "/Before-PAtio-HSC-Gallery (1).webp",
         "/During-HSC-Patios-GAllery (1).webp",
-        "/After-HSC-Gallery-Patios (1) copy.webp",
+        "/After-HSC-Gallery-Patios (1).webp",
         "/after2-HSC-patios-Gallery (1) copy.webp",
-        "/after3-Patios-HSC-GAllery (1) copy.webp"
+        "/after3-Patios-HSC-GAllery (1).webp"
       ],
-      after: "/After-HSC-Gallery-Patios (1) copy.webp",
+      after: "/After-HSC-Gallery-Patios (1).webp",
       alt: "Complete patio transformation showing before, during construction, and multiple after views"
     }
   ];
@@ -135,7 +135,7 @@ const Gallery: React.FC = () => {
     },
     {
       title: "Landscaping Wall Project",
-      after: "/wall-HSC-Landscaping-Glasgow (1) copy.webp",
+      after: "/wall-HSC-Landscaping-Glasgow (1).webp",
       alt: "Retaining wall as part of landscaping project"
     },
     {
@@ -155,12 +155,12 @@ const Gallery: React.FC = () => {
   const steps: Project[] = [
     { 
       title: "Garden Steps Installation", 
-      after: "/HSC-STEPS-Services-Hardscaping (1) copy.webp",
+      after: "/HSC-STEPS-Services-Hardscaping (1).webp",
       alt: "Professional garden steps construction"
     },
     { 
       title: "Pathway & Steps", 
-      after: "/HSC-path-Hardscaping-Services (1) copy.webp",
+      after: "/HSC-path-Hardscaping-Services (1).webp",
       alt: "Pathway with integrated steps"
     },
     { 
@@ -192,7 +192,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Quality Artificial Turf", 
       before: "/Art-tirf-Before-HSC-Gallery (1) copy.webp",
-      after: "/artificial-turf-HSC-Service (1) copy.webp",
+      after: "/artificial-turf-HSC-Service (1).webp",
       alt: "High-quality artificial turf installation transformation"
     },
     { 
