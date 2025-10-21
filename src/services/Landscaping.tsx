@@ -213,7 +213,7 @@ const Landscaping: React.FC = () => {
       },
       images: [
         "/art-turf-home-projects-HSC (1).webp",
-        "/artificial-turf-HSC-Service (1).webp",
+        "/artificial-turf-HSC-Service (1) copy.webp",
         "/turf-artificial-HSC-Service (1).webp"
       ],
       image: "/art-turf-home-projects-HSC (1).webp",
@@ -263,13 +263,13 @@ const Landscaping: React.FC = () => {
         after: "/Compostite-fencing-HSC-home (1).webp"
       },
       images: [
-        "/Compostite-fencing-HSC-home (1).webp",
+        "/Compostite-fencing-HSC-home (1) copy.webp",
         "/fencing-home-projects-HSC (1).webp",
         "/HSC-fencing-SERVICES (1).webp",
         "/SERVICES-fencing-HSC (1).webp",
         "/fencing-HSC-SERVICES-Landscaping (1).webp"
       ],
-      image: "/fencing-home-projects-HSC (1).webp",
+      image: "/Compostite-fencing-HSC-home (1) copy.webp",
       link: "#/services/landscaping"
     },
     {
@@ -288,7 +288,7 @@ const Landscaping: React.FC = () => {
         ],
         benefits: "Professional decking creates valuable outdoor living space that extends your home's usable area. Our installations provide a durable, attractive platform for outdoor entertaining and relaxation."
       },
-      image: "/landscaping-hero-hsc (1).webp",
+      image: "/hero-image-home-landscaping-optimized.webp",
       link: "#/services/landscaping"
     },
     {
@@ -312,7 +312,7 @@ const Landscaping: React.FC = () => {
       },
       images: [
         "/HSC-Landscaping-Full-Renovation (1).webp",
-        "/Landscaping-Full-Renovation-HS (1).webp",
+        "/HSC-Landscaping-Full-Renovation (1) copy.webp",
         "/Full-Renovation-LAndscaping-HSC (1).webp",
         "/Full-Renovation-HSC-Landscaping (1).webp",
         "/Landscaping-HSC-Full-Transformation (1).webp"
