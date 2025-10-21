@@ -288,7 +288,7 @@ const Landscaping: React.FC = () => {
         ],
         benefits: "Professional decking creates valuable outdoor living space that extends your home's usable area. Our installations provide a durable, attractive platform for outdoor entertaining and relaxation."
       },
-      image: "/hero-image-home-landscaping-optimized.webp",
+      image: "/HSC-FULL-Transformation.webp",
       link: "#/services/landscaping"
     },
     {
