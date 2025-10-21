@@ -266,7 +266,7 @@ const Landscaping: React.FC = () => {
         "/Compostite-fencing-HSC-home (1) copy.webp",
         "/fencing-home-projects-HSC (1) copy.webp",
         "/HSC-fencing-SERVICES (1) copy.webp",
-        "/SERVICES-fencing-HSC (1) copy.webp",
+        "/SERVICES-fencing-HSC (1).webp",
         "/fencing-HSC-SERVICES-Landscaping (1) copy.webp"
       ],
       image: "/fencing-home-projects-HSC (1) copy.webp",

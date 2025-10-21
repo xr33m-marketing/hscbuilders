@@ -74,12 +74,12 @@ const NewtonFarmHardscaping: React.FC = () => {
     },
     {
       title: "Block Paving Project 4",
-      after: "/HSC-Hardscaping-Block-Paving (1) copy.webp",
+      after: "/HSC-Hardscaping-Block-Paving (1).webp",
       alt: "Premium driveway installation"
     },
     {
       title: "Block Paving Project 5",
-      after: "/Block-paving-Hardscaping-HSC (1) copy.webp",
+      after: "/Block-paving-Hardscaping-HSC (1).webp",
       alt: "Modern hardscaping project"
     },
     {
