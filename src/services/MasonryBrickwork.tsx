@@ -167,7 +167,7 @@ const MasonryBrickwork: React.FC = () => {
       images: [
         "/HSC-wall-Glasgow-landscaping (1).webp",
         "/wall-HSC-Landscaping-Glasgow (1) copy.webp",
-        "/Glasgow-walls-HSC-landscaping (1) copy.webp"
+        "/Glasgow-walls-HSC-landscaping (1).webp"
       ],
       image: "/HSC-wall-Glasgow-landscaping (1).webp",
       link: "#/services/masonry-brickwork"
@@ -216,15 +216,15 @@ const MasonryBrickwork: React.FC = () => {
       },
       beforeAfterImages: [
         {
-          before: "/restoration-HSC-MASONRY-before (1) copy.webp",
-          after: "/restoration-After-HSC-Masonry (1) copy.webp"
+          before: "/restoration-HSC-MASONRY-before (1).webp",
+          after: "/restoration-After-HSC-Masonry (1).webp"
         },
         {
           before: "/HSC-before-restoration-MASONRY (1) copy.webp",
           after: "/Restoration-HSC-MASONRY (1) copy copy.webp"
         }
       ],
-      image: "/restoration-After-HSC-Masonry (1) copy.webp",
+      image: "/restoration-After-HSC-Masonry (1).webp",
       link: "#/services/masonry-brickwork"
     }
   ];

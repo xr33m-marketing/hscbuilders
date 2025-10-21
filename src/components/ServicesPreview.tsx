@@ -54,7 +54,7 @@ const ServicesPreview: React.FC = () => {
         ],
         benefits: "Quality hardscaping provides immediate curb appeal and creates functional outdoor living spaces. Our installations come with workmanship guarantees and use materials specifically chosen for Scottish weather conditions."
       },
-      image: "/hardscaping-hero-HSC (1) copy.webp",
+      image: "/hardscaping-hero-HSC (1).webp",
       link: "#/services/hardscaping"
     },
     {

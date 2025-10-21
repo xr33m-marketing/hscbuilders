@@ -42,7 +42,7 @@ const About: React.FC = () => {
       link: "#/services/landscaping"
     },
     {
-      image: "/hardscaping-hero-HSC (1) copy.webp",
+      image: "/hardscaping-hero-HSC (1).webp",
       title: "Hardscaping & Patios",
       result: "Professional patio and driveway installations",
       link: "#/services/hardscaping"

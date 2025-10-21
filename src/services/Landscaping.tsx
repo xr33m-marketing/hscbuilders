@@ -259,7 +259,7 @@ const Landscaping: React.FC = () => {
         benefits: "Quality fencing enhances privacy, security, and property value while defining outdoor spaces. Our installations use premium materials designed to withstand Scottish weather with minimal maintenance."
       },
       beforeAfterImages: {
-        before: "/fencing-BEFORE-HSC-Gallery (1) copy.webp",
+        before: "/fencing-BEFORE-HSC-Gallery (1).webp",
         after: "/Compostite-fencing-HSC-home (1) copy.webp"
       },
       images: [

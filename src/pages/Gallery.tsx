@@ -10,7 +10,7 @@ const Gallery: React.FC = () => {
   const fencing: Project[] = [
     { 
       title: "Composite Fencing Installation",
-     before: "/fencing-BEFORE-HSC-Gallery (1) copy.webp",
+     before: "/fencing-BEFORE-HSC-Gallery (1).webp",
      after: "/Compostite-fencing-HSC-home (1) copy.webp",
      alt: "Modern composite fencing installation transformation"
     },
@@ -69,7 +69,7 @@ const Gallery: React.FC = () => {
       images: [
         "/Before-PAtio-HSC-Gallery (2).webp",
         "/PAtio-Before-Gallery-HSC (1).webp",
-        "/Gallery-Before-HSC-patio (1) copy.webp",
+        "/Gallery-Before-HSC-patio (1).webp",
         "/After-Patios-HSC-Gallery (1) copy.webp",
         "/Gallery-HSC-Patios-After (1).webp",
         "/HSC-After-Patios-Gallery (1) copy.webp"
@@ -86,7 +86,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Complete Patio Transformation", 
       images: [
-        "/Before-PAtio-HSC-Gallery (1) copy.webp",
+        "/Before-PAtio-HSC-Gallery (1).webp",
         "/During-HSC-Patios-GAllery (1) copy.webp",
         "/After-HSC-Gallery-Patios (1) copy.webp",
         "/after2-HSC-patios-Gallery (1) copy.webp",
@@ -140,7 +140,7 @@ const Gallery: React.FC = () => {
     },
     {
       title: "Boundary Wall Installation",
-      after: "/Glasgow-walls-HSC-landscaping (1) copy.webp",
+      after: "/Glasgow-walls-HSC-landscaping (1).webp",
       alt: "Boundary wall with integrated landscaping"
     },
     {
@@ -197,7 +197,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Turf Installation Service", 
-     before: "/HSC-Art-turf-Before-Gallery (1) copy.webp",
+     before: "/HSC-Art-turf-Before-Gallery (1).webp",
       after: "/turf-artificial-HSC-Service (1).webp",
       alt: "Professional turf installation service"
     }
@@ -260,9 +260,9 @@ const Gallery: React.FC = () => {
         "/Full-Transformation-HSC-After-Gallery (1) copy copy.webp",
         "/HSC-Gallery-Full-TRansformation (1).webp",
         "/Full-Transformtation-HSC (1).webp",
-        "/restoration-After-HSC-Masonry (1) copy.webp",
-        "/Full-Transfromation-HSC-Landscapinig (1) copy.webp",
-        "/HSC-Full-Landscaping-Gallery (1) copy.webp"
+        "/restoration-After-HSC-Masonry (1).webp",
+        "/Full-Transfromation-HSC-Landscapinig (1).webp",
+        "/HSC-Full-Landscaping-Gallery (1).webp"
       ],
      alt: "Full garden transformation project showing dramatic before and after results"
     },

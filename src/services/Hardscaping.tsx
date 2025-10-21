@@ -170,7 +170,7 @@ const Hardscaping: React.FC = () => {
         "/HSC-Hardscaping-Block-Paving (1).webp",
         "/Block-paving-Hardscaping-HSC (1).webp"
       ],
-      image: "/hardscaping-hero-HSC (1) copy.webp",
+      image: "/hardscaping-hero-HSC (1).webp",
       link: "#/services/hardscaping"
     },
     {
@@ -192,9 +192,9 @@ const Hardscaping: React.FC = () => {
       images: [
         "/HSC-wall-Glasgow-landscaping (1).webp",
         "/wall-HSC-Landscaping-Glasgow (1) copy.webp",
-        "/Glasgow-walls-HSC-landscaping (1) copy.webp"
+        "/Glasgow-walls-HSC-landscaping (1).webp"
       ],
-      image: "/hardscaping-hero-HSC (1) copy.webp",
+      image: "/hardscaping-hero-HSC (1).webp",
       link: "#/services/hardscaping"
     },
     {
@@ -218,7 +218,7 @@ const Hardscaping: React.FC = () => {
         "/house-extension-HSC-Hardscaping (1) copy.webp",
         "/HSC-House-Extension-Hardscaping (1) copy.webp"
       ],
-      image: "/hardscaping-hero-HSC (1) copy.webp",
+      image: "/hardscaping-hero-HSC (1).webp",
       link: "#/services/hardscaping"
     },
     {
@@ -241,7 +241,7 @@ const Hardscaping: React.FC = () => {
         "/HSC-drainage-Hardscaping (1) copy.webp",
         "/drainage-HSC-HArdscaping (1).webp"
       ],
-      image: "/hardscaping-hero-HSC (1) copy.webp",
+      image: "/hardscaping-hero-HSC (1).webp",
       link: "#/services/hardscaping"
     }
   ];
@@ -282,7 +282,7 @@ const Hardscaping: React.FC = () => {
         <div 
           className="absolute inset-0 w-full h-full md:hidden"
           style={{
-            backgroundImage: `url('/hardscaping-hero-HSC (1) copy.webp')`,
+            backgroundImage: `url('/hardscaping-hero-HSC (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
