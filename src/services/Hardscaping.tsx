@@ -214,7 +214,7 @@ const Hardscaping: React.FC = () => {
         benefits: "Professional house extensions can increase property value by 15-25% while providing additional living space tailored to your needs. Our renovations use premium materials and expert craftsmanship to create luxury living spaces that enhance your lifestyle and property investment."
       },
       images: [
-        "/Hardscaping-HSC-house-extension (1) copy.webp",
+        "/Hardscaping-HSC-house-extension (1).webp",
         "/house-extension-HSC-Hardscaping (1) copy.webp",
         "/HSC-House-Extension-Hardscaping (1) copy.webp"
       ],

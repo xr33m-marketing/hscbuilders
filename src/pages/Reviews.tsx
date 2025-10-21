@@ -318,7 +318,7 @@ const Reviews: React.FC = () => {
                   "/groundskeeping-home-HSC (1) copy.webp",
                   "/HSC-patio-landscaping (1) copy.webp",
                   "/Patio-HSC-Landscaping-services (1) copy.webp",
-                  "/HSC-landscaping-HSC (1) copy copy.webp",
+                  "/HSC-landscaping-HSC (1).webp",
                   "/patio-landscaping-HSC.webp",
                   "/landscaping-HSC-patio (1) copy.webp",
                   "/HSC-Block-Paving-Hardscaping (1) copy.webp",

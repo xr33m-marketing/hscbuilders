@@ -35,7 +35,7 @@ const ServicesPreview: React.FC = () => {
         ],
         benefits: "Professional landscape design can increase property value by 20-30% while creating outdoor spaces that enhance your quality of life. Our designs focus on year-round interest and low-maintenance solutions using premium materials."
       },
-      image: "/HSC-FULL-Transformation copy.webp",
+      image: "/HSC-FULL-Transformation.webp",
       link: "#/services/landscaping"
     },
     {

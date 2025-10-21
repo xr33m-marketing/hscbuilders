@@ -31,7 +31,7 @@ const Masonry = () => {
     },
     {
       beforeImage: '/repointing-HSC-before.webp',
-      afterImage: '/HSC-repointing-After-MASONRY (1) copy.webp',
+      afterImage: '/HSC-repointing-After-MASONRY (1).webp',
       title: 'Repointing Service'
     }
   ];
@@ -156,7 +156,7 @@ const Masonry = () => {
             category: 'Masonry'
           },
           {
-            image: '/Restoration-MASONRY-HSC (1) copy.webp',
+            image: '/Restoration-MASONRY-HSC (1).webp',
             title: 'Brick Repair',
             category: 'Masonry'
           },
@@ -176,7 +176,7 @@ const Masonry = () => {
             category: 'Masonry'
           },
           {
-            image: '/HSC-repointing-After-MASONRY (1) copy.webp',
+            image: '/HSC-repointing-After-MASONRY (1).webp',
             title: 'Repointing Work',
             category: 'Masonry'
           }

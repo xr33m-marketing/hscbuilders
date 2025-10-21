@@ -227,7 +227,7 @@ export default function AboutUsSection() {
                 whileHover={{ scale: 1.03, transition: { duration: 0.3 } }}
               >
                 <img
-                  src="/about us-home (2) copy.webp"
+                  src="/about us-home (2).webp"
                   alt="HSC Builders About Us"
                   className="w-full h-full object-cover"
                 />

@@ -255,7 +255,7 @@ const Gallery: React.FC = () => {
     {
       title: "Full Garden Transformation",
      before: "/HSC-full-transformation-Before (1) copy.webp",
-      after: "/GAllery-HSC-After-Full-Transformation (1) copy.webp",
+      after: "/GAllery-HSC-After-Full-Transformation (1).webp",
       images: [
         "/Full-Transformation-HSC-After-Gallery (1) copy copy.webp",
         "/HSC-Gallery-Full-TRansformation (1) copy.webp",

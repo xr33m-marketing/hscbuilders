@@ -89,7 +89,7 @@ const NewtonFarmHardscaping: React.FC = () => {
     },
     {
       title: "House Extensions",
-      after: "/Hardscaping-HSC-house-extension (1) copy.webp",
+      after: "/Hardscaping-HSC-house-extension (1).webp",
       alt: "House extension construction"
     }
   ];

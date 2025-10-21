@@ -391,7 +391,7 @@ const Landscaping: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full md:hidden"
           style={{
-            backgroundImage: `url('/hero-image-home-landscaping-optimized copy copy.webp')`,
+            backgroundImage: `url('/hero-image-home-landscaping-optimized.webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
@@ -404,7 +404,7 @@ const Landscaping: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full"
           style={{
-            backgroundImage: `url('/hero-image-home-landscaping-optimized copy copy.webp')`,
+            backgroundImage: `url('/hero-image-home-landscaping-optimized.webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
