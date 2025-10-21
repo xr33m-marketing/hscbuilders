@@ -22,7 +22,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Landscaping Fencing Services", 
-      before: "/BEfore-HSC-Fencing-Gallery (1) copy.webp",
+      before: "/BEfore-HSC-Fencing-Gallery (1).webp",
       after: "/HSC-fencing-SERVICES (1) copy.webp",
       alt: "Professional fencing as part of landscaping project transformation"
     },
@@ -44,7 +44,7 @@ const Gallery: React.FC = () => {
   const patios: Project[] = [
     { 
       title: "Natural Stone Patio", 
-      after: "/HSC-patio-landscaping (1) copy.webp",
+      after: "/HSC-patio-landscaping (1).webp",
       alt: "Beautiful natural stone patio installation"
     },
     { 
@@ -87,7 +87,7 @@ const Gallery: React.FC = () => {
       title: "Complete Patio Transformation", 
       images: [
         "/Before-PAtio-HSC-Gallery (1).webp",
-        "/During-HSC-Patios-GAllery (1) copy.webp",
+        "/During-HSC-Patios-GAllery (1).webp",
         "/After-HSC-Gallery-Patios (1) copy.webp",
         "/after2-HSC-patios-Gallery (1) copy.webp",
         "/after3-Patios-HSC-GAllery (1) copy.webp"
@@ -171,7 +171,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Quality Steps Installation", 
-      after: "/Steps-Services-HArdscaping-HSC (1) copy.webp",
+      after: "/Steps-Services-HArdscaping-HSC (1).webp",
       alt: "Quality steps installation service"
     },
     { 
@@ -241,7 +241,7 @@ const Gallery: React.FC = () => {
       images: [
         "/Gallery-HSC-After-Landscaping (2).webp",
         "/After-HSC-full-landscapiing-GAllery (1) copy.webp",
-        "/HSC-After-Landscaping-Gallery (1) copy.webp"
+        "/HSC-After-Landscaping-Gallery (1).webp"
       ],
       after: "/Gallery-HSC-After-Landscaping (2).webp",
       alt: "Complete landscape renovation project"

@@ -192,7 +192,7 @@ const MasonryBrickwork: React.FC = () => {
         "/HSC-STEPS-Services-Hardscaping (1) copy.webp",
         "/HSC-path-Hardscaping-Services (1) copy.webp",
         "/HSC-Hardscaping-Steps-Services (1) copy.webp",
-        "/Steps-Services-HArdscaping-HSC (1) copy.webp",
+        "/Steps-Services-HArdscaping-HSC (1).webp",
         "/Steps-Hardscaping-Services-HSC (1) copy.webp"
       ],
       image: "/HSC-STEPS-Services-Hardscaping (1) copy.webp",
@@ -220,7 +220,7 @@ const MasonryBrickwork: React.FC = () => {
           after: "/restoration-After-HSC-Masonry (1).webp"
         },
         {
-          before: "/HSC-before-restoration-MASONRY (1) copy.webp",
+          before: "/HSC-before-restoration-MASONRY (1).webp",
           after: "/Restoration-HSC-MASONRY (1) copy copy.webp"
         }
       ],

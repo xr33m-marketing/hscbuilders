@@ -17,7 +17,7 @@ const Services: React.FC = () => {
         "Leaf removal & cleanup"
       ],
       link: "#/services/lawn-care",
-      image: "/groundskeeping-home-HSC (1) copy.webp"
+      image: "/groundskeeping-home-HSC (1).webp"
     },
     {
       icon: <TreePine className="w-12 h-12 text-primary-accent" />,

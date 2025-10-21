@@ -33,7 +33,7 @@ const RecentProjectsSection = () => {
     {
       title: "Garden Maintenance",
       description: "Professional groundskeeping services",
-      image: "/groundskeeping-home-HSC (1) copy.webp",
+      image: "/groundskeeping-home-HSC (1).webp",
       icon: <Scissors size={24} className="text-white" />,
       link: "#/services/groundskeeping",
       location: "Greater Glasgow"

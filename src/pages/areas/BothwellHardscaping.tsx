@@ -54,7 +54,7 @@ const BothwellHardscaping: React.FC = () => {
   const bothwellProjects: Project[] = [
     {
       title: "Patios & Outdoor Living",
-      after: "/HSC-patio-landscaping (1) copy.webp",
+      after: "/HSC-patio-landscaping (1).webp",
       alt: "Professional patio installation"
     },
     {

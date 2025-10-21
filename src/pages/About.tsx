@@ -48,7 +48,7 @@ const About: React.FC = () => {
       link: "#/services/hardscaping"
     },
     {
-      image: "/groundskeeping-home-HSC (1) copy.webp",
+      image: "/groundskeeping-home-HSC (1).webp",
       title: "Groundskeeping Services",
       result: "Regular maintenance and garden care services",
       link: "#/services/groundskeeping"

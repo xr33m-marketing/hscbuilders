@@ -237,9 +237,9 @@ const Landscaping: React.FC = () => {
       },
       beforeAfterImages: {
         before: "/groundskeepiing-home-before-HSC (1) copy.webp",
-        after: "/groundskeeping-home-HSC (1) copy.webp"
+        after: "/groundskeeping-home-HSC (1).webp"
       },
-      image: "/groundskeeping-home-HSC (1) copy.webp",
+      image: "/groundskeeping-home-HSC (1).webp",
       link: "#/services/landscaping"
     },
     {

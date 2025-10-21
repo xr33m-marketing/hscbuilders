@@ -130,7 +130,7 @@ const HamiltonGroundskeeping: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full md:hidden"
           style={{
-            backgroundImage: `url('/groundskeeping-hero-HSC (2) copy copy copy.webp')`,
+            backgroundImage: `url('/groundskeeping-hero-HSC (2).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
@@ -143,7 +143,7 @@ const HamiltonGroundskeeping: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full"
           style={{
-            backgroundImage: `url('/groundskeeping-hero-HSC (2) copy copy copy.webp')`,
+            backgroundImage: `url('/groundskeeping-hero-HSC (2).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'

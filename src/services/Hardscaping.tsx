@@ -138,13 +138,13 @@ const Hardscaping: React.FC = () => {
         benefits: "A professionally installed patio creates valuable outdoor living space that increases property value by 15-20%. Our installations provide durable, low-maintenance surfaces perfect for Scottish weather with proper drainage to prevent water damage."
       },
       images: [
-        "/HSC-patio-landscaping (1) copy.webp",
+        "/HSC-patio-landscaping (1).webp",
         "/Patio-HSC-Landscaping-services (1) copy.webp",
         "/patio-HSC_landscaping (1) copy.webp",
         "/patio-landscaping-HSC (1).webp",
         "/landscaping-HSC-patio (1) copy.webp"
       ],
-      image: "/HSC-patio-landscaping (1) copy.webp",
+      image: "/HSC-patio-landscaping (1).webp",
       link: "#/services/hardscaping"
     },
     {
@@ -215,7 +215,7 @@ const Hardscaping: React.FC = () => {
       },
       images: [
         "/Hardscaping-HSC-house-extension (1).webp",
-        "/house-extension-HSC-Hardscaping (1) copy.webp",
+        "/house-extension-HSC-Hardscaping (1).webp",
         "/HSC-House-Extension-Hardscaping (1) copy.webp"
       ],
       image: "/hardscaping-hero-HSC (1).webp",

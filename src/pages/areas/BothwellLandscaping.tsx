@@ -61,7 +61,7 @@ const BothwellLandscaping: React.FC = () => {
     {
       title: "Natural Turf Laying",
       before: "/groundskeepiing-home-before-HSC (1) copy.webp",
-      after: "/groundskeeping-home-HSC (1) copy.webp",
+      after: "/groundskeeping-home-HSC (1).webp",
       alt: "Professional natural turf installation"
     },
     {

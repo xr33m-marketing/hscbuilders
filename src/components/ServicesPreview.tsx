@@ -73,7 +73,7 @@ const ServicesPreview: React.FC = () => {
         ],
         benefits: "Regular professional groundskeeping maintains your property's appearance year-round and prevents costly issues. Our systematic approach ensures healthy lawns, well-maintained gardens, and pristine outdoor spaces."
       },
-      image: "/groundskeeping-home-HSC (1) copy.webp",
+      image: "/groundskeeping-home-HSC (1).webp",
       link: "#/services/groundskeeping",
     }
   ];
@@ -196,7 +196,7 @@ const ServicesPreview: React.FC = () => {
                     />
                     {/* After Image */}
                     <img
-                      src="/groundskeeping-home-HSC (1) copy.webp"
+                      src="/groundskeeping-home-HSC (1).webp"
                       alt="After - Groundskeeping transformation"
                       className={`w-full h-80 object-cover hover:scale-105 transition-all duration-1000 ${
                         currentImageIndex === 1 ? 'opacity-100' : 'opacity-0'
