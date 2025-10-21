@@ -64,8 +64,8 @@ const JacktonMasonry: React.FC = () => {
     },
     {
       title: "Pointing & Restoration",
-      before: "/restoration-HSC-MASONRY-before (1) copy.webp",
-      after: "/restoration-After-HSC-Masonry (1) copy.webp",
+      before: "/restoration-HSC-MASONRY-before (1).webp",
+      after: "/restoration-After-HSC-Masonry (1).webp",
       alt: "Professional pointing and restoration"
     },
     {

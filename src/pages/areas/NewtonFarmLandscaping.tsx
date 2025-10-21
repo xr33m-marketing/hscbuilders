@@ -66,7 +66,7 @@ const NewtonFarmLandscaping: React.FC = () => {
     },
     {
       title: "Composite Fencing",
-      before: "/fencing-BEFORE-HSC-Gallery (1) copy.webp",
+      before: "/fencing-BEFORE-HSC-Gallery (1).webp",
       after: "/Compostite-fencing-HSC-home (1) copy.webp",
       alt: "Premium composite fencing installation"
     },

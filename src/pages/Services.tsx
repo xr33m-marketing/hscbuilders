@@ -47,7 +47,7 @@ const Services: React.FC = () => {
         "Decorative walls & borders"
       ],
       link: "#/services/hardscaping",
-      image: "/hardscaping-hero-HSC (1) copy.webp"
+      image: "/hardscaping-hero-HSC (1).webp"
     },
     {
       icon: <Droplets className="w-12 h-12 text-primary-accent" />,

@@ -314,7 +314,7 @@ const Reviews: React.FC = () => {
               >
                 {[
                   "/landscaping-hero-hsc.webp",
-                  "/hardscaping-hero-HSC (1) copy.webp",
+                  "/hardscaping-hero-HSC (1).webp",
                   "/groundskeeping-home-HSC (1) copy.webp",
                   "/HSC-patio-landscaping (1) copy.webp",
                   "/Patio-HSC-Landscaping-services (1) copy.webp",
@@ -328,7 +328,7 @@ const Reviews: React.FC = () => {
                   "/Block-paving-Hardscaping-HSC (1).webp",
                   "/HSC-wall-Glasgow-landscaping.webp",
                   "/wall-HSC-Landscaping-Glasgow (1) copy.webp",
-                  "/Glasgow-walls-HSC-landscaping (1) copy.webp",
+                  "/Glasgow-walls-HSC-landscaping (1).webp",
                   "/HSC-STEPS-Services-Hardscaping (1) copy.webp",
                   "/HSC-path-Hardscaping-Services (1) copy.webp",
                   "/HSC-Hardscaping-Steps-Services (1) copy.webp",
