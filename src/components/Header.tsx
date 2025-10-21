@@ -96,7 +96,7 @@ const Header: React.FC = () => {
           <div className="flex items-center space-x-6">
             <a href="/" onClick={scrollToTop} className="flex items-center space-x-6">
               <img
-                src="/hsc-logo.webp"
+                src="/hsc-logo copy copy.webp"
                 alt="HSC Builders Logo"
                 className="w-20 h-20 object-contain"
               />

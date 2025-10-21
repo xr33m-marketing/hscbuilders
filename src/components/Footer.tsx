@@ -90,7 +90,7 @@ export const Footer7 = ({
             <div className="flex items-center gap-3 lg:justify-start">
               <a href={logo.url} onClick={scrollToTop} className="flex items-center space-x-3">
                 <img
-                  src="/hsc-logo.webp"
+                  src="/hsc-logo copy copy.webp"
                   alt="HSC Builders Logo"
                   className="w-12 h-12 object-contain"
                 />
