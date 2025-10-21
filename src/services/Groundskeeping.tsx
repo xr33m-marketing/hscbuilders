@@ -148,7 +148,7 @@ const Groundskeeping: React.FC = () => {
       image: "/groundskeepning-cleanup-HSC-BEFORE (1).webp",
       beforeAfterImages: {
         before: "/groundskeepning-cleanup-HSC-BEFORE (1).webp",
-        after: "/Groundskeeping-HSC-cleanup-AFTER (1).webp"
+        after: "/groundskeeping-home-HSC (1).webp"
       },
       link: "#/services/groundskeeping"
     }
