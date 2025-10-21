@@ -222,12 +222,10 @@ const Header: React.FC = () => {
           </div>
         </div>
 
-      </div>
-
-      {/* Mobile Navigation */}
-      {isMenuOpen && (
-        <div className="lg:hidden fixed left-0 right-0 top-20 bottom-0 bg-black z-50 overflow-y-auto border-t border-white/20">
-          <div className="px-4 pt-4 pb-6 space-y-1">
+        {/* Mobile Navigation */}
+        {isMenuOpen && (
+          <div className="lg:hidden border-t border-white border-opacity-20 bg-black max-h-[calc(100vh-5rem)] overflow-y-auto">
+            <div className="px-2 pt-2 pb-3 space-y-1">
               {navigationItems.map((item) => (
               <div key={item.name}>
                 {item.hasDropdown ? (
@@ -283,8 +281,9 @@ const Header: React.FC = () => {
                 </a>
               </div>
             </div>
-        </div>
-      )}
+          </div>
+        )}
+      </div>
     </header>
   );
 };
