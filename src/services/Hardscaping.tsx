@@ -139,7 +139,7 @@ const Hardscaping: React.FC = () => {
       },
       images: [
         "/HSC-patio-landscaping (1).webp",
-        "/Patio-HSC-Landscaping-services (1).webp",
+        "/patio-HSC_landscaping (1) copy.webp",
         "/patio-HSC_landscaping (1).webp",
         "/patio-landscaping-HSC (1).webp",
         "/landscaping-HSC-patio (1).webp"
@@ -190,7 +190,7 @@ const Hardscaping: React.FC = () => {
         benefits: "Quality wall construction provides essential structural support for sloped gardens while creating attractive boundaries. Our walls include proper drainage systems to prevent water damage and are built to withstand soil pressure and weather conditions."
       },
       images: [
-        "/HSC-wall-Glasgow-landscaping (1).webp",
+        "/HSC-wall-Glasgow-landscaping (1) copy.webp",
         "/wall-HSC-Landscaping-Glasgow (1).webp",
         "/Glasgow-walls-HSC-landscaping (1).webp"
       ],
@@ -239,7 +239,7 @@ const Hardscaping: React.FC = () => {
       },
       images: [
         "/HSC-drainage-Hardscaping (1).webp",
-        "/drainage-HSC-HArdscaping (1).webp"
+        "/drainage-HSC-HArdscaping (1) copy.webp"
       ],
       image: "/hardscaping-hero-HSC (1).webp",
       link: "#/services/hardscaping"

@@ -208,7 +208,7 @@ const Landscaping: React.FC = () => {
         benefits: "Artificial turf provides a consistently green, low-maintenance lawn that saves water, eliminates mowing, and stays beautiful year-round. Perfect for busy families, pet owners, and areas with poor growing conditions."
       },
       beforeAfterImages: {
-        before: "/artificial-turf-HSC-Before-Gallery (1).webp",
+        before: "/artificial-turf-HSC-Before-Gallery (1) copy.webp",
         after: "/art-turf-home-projects-HSC (1).webp"
       },
       images: [
@@ -245,12 +245,12 @@ const Landscaping: React.FC = () => {
     {
       icon: <Hammer className="w-12 h-12 text-primary-accent" />,
       title: "Fencing",
-      description: "Composite and timber fencing solutions providing privacy, security, and aesthetic appeal with professional installation and long-lasting materials.",
+      description: "Timber fencing solutions providing privacy, security, and aesthetic appeal with professional installation and long-lasting materials.",
       detailedInfo: {
-        expertise: "Our fencing specialists install a wide range of fencing types including composite, timber, and decorative options. We ensure proper post installation, drainage, and finishing for maximum durability.",
+        expertise: "Our fencing specialists install a wide range of fencing types including timber and decorative options. We ensure proper post installation, drainage, and finishing for maximum durability.",
         services: [
           "Site survey and planning",
-          "Composite fencing installation",
+          "Timber fencing installation",
           "Timber fencing and gates",
           "Post installation and concrete work",
           "Panel fitting and alignment",
@@ -260,7 +260,7 @@ const Landscaping: React.FC = () => {
       },
       beforeAfterImages: {
         before: "/fencing-BEFORE-HSC-Gallery (1).webp",
-        after: "/Compostite-fencing-HSC-home (1).webp"
+        after: "/fencing-home-projects-HSC (1).webp"
       },
       images: [
         "/Compostite-fencing-HSC-home (1) copy.webp",
