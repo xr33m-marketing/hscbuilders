@@ -202,19 +202,19 @@ export default function OurProcessSection() {
       step: "Initial Consultation",
       title: "Free Consultation & Site Assessment",
       content: "We visit your property to understand your vision, assess the space, discuss your budget, and provide expert recommendations tailored to your needs.",
-      image: "/process-1-home (1) copy.webp"
+      image: "/process-1-home (1).webp"
     },
     {
       step: "Design & Planning",
       title: "Custom Design Development",
       content: "Our team creates detailed landscape designs with 3D visualizations, material selections, and comprehensive project timelines for your approval.",
-      image: "/step2-custom-design-HSC (1) copy.webp"
+      image: "/step2-custom-design-HSC (1).webp"
     },
     {
       step: "Proposal & Agreement",
       title: "Detailed Proposal & Contract",
       content: "We present a comprehensive proposal with transparent pricing, project scope, timeline, and terms. Once approved, we schedule your project start date.",
-      image: "/step3-proposal-home-HSC (1) copy.webp"
+      image: "/step3-proposal-home-HSC (1).webp"
     },
     {
       step: "Project Execution",

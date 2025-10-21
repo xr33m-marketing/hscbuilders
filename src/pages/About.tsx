@@ -36,7 +36,7 @@ const About: React.FC = () => {
 
   const featuredProjects = [
     {
-      image: "/Full-Landscaping-HSC-Gallery (1) copy.webp",
+      image: "/Full-Landscaping-HSC-Gallery (1).webp",
       title: "Complete Landscaping",
       result: "Full outdoor transformation with composite decking and garden design",
       link: "#/services/landscaping"

@@ -164,11 +164,11 @@ const Hardscaping: React.FC = () => {
         benefits: "Professional driveway installation enhances curb appeal and provides reliable vehicle access. Our installations include proper drainage to prevent water damage and use quality materials designed for heavy vehicle loads and Scottish weather conditions."
       },
       images: [
-        "/HSC-Block-Paving-Hardscaping (1) copy.webp",
-        "/Hardscaping-HSC-Block-Paving (1) copy.webp",
-        "/Block-paving-HSC-Hardscaping (1) copy.webp",
-        "/HSC-Hardscaping-Block-Paving (1) copy.webp",
-        "/Block-paving-Hardscaping-HSC (1) copy.webp"
+        "/HSC-Block-Paving-Hardscaping (1).webp",
+        "/Hardscaping-HSC-Block-Paving (1).webp",
+        "/Block-paving-HSC-Hardscaping (1).webp",
+        "/HSC-Hardscaping-Block-Paving (1).webp",
+        "/Block-paving-Hardscaping-HSC (1).webp"
       ],
       image: "/hardscaping-hero-HSC (1) copy.webp",
       link: "#/services/hardscaping"

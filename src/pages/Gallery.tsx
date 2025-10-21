@@ -28,8 +28,8 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Complete Fencing Solution", 
-      before: "/HSC-fencing-BEFORE-GALLERY (1) copy.webp",
-      after: "/SERVICES-fencing-HSC (1) copy.webp",
+      before: "/HSC-fencing-BEFORE-GALLERY (1).webp",
+      after: "/SERVICES-fencing-HSC (1).webp",
       alt: "Complete fencing installation with gates"
     },
     { 
@@ -67,7 +67,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Integrated Patio & Landscaping", 
       images: [
-        "/Before-PAtio-HSC-Gallery (2) copy.webp",
+        "/Before-PAtio-HSC-Gallery (2).webp",
         "/PAtio-Before-Gallery-HSC (1) copy.webp",
         "/Gallery-Before-HSC-patio (1) copy.webp",
         "/After-Patios-HSC-Gallery (1) copy.webp",
@@ -103,7 +103,7 @@ const Gallery: React.FC = () => {
       title: "Expert Block Paving Project", 
       images: [
         "/HSC-Block-Paving-Hardscaping (1) copy.webp",
-        "/Block-paving-Hardscaping-HSC (1) copy.webp",
+        "/Block-paving-Hardscaping-HSC (1).webp",
         "/garden-bed-planting-HSC (1) copy.webp"
       ],
       after: "/HSC-Block-Paving-Hardscaping (1) copy.webp",
@@ -268,7 +268,7 @@ const Gallery: React.FC = () => {
     },
     {
       title: "Complete Landscaping Project",
-      before: "/Full-Landscaping-HSC-Gallery (1) copy.webp",
+      before: "/Full-Landscaping-HSC-Gallery (1).webp",
       after: "/landscaping-hero-hsc (1) copy.webp",
       alt: "Complete landscaping transformation with modern outdoor design"
     }
