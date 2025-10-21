@@ -346,7 +346,7 @@ const Reviews: React.FC = () => {
                   "/garden-bed-planting-HSC (1).webp",
                   "/hedge-trimming-HSC.webp",
                   "/weed-removal-HSC-GroundsKEEPING.webp",
-                  "/HSC-Maintenance-AFTER (1) copy.webp",
+                  "/HSC-Maintenance-AFTER (1).webp",
                   "/Groundskeeping-HSC-cleanup-AFTER (1) copy.webp"
                 ].map((image, index) => (
                   <div

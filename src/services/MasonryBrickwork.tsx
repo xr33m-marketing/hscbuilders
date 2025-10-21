@@ -193,7 +193,7 @@ const MasonryBrickwork: React.FC = () => {
         "/HSC-path-Hardscaping-Services (1).webp",
         "/HSC-Hardscaping-Steps-Services (1).webp",
         "/Steps-Services-HArdscaping-HSC (1).webp",
-        "/Steps-Hardscaping-Services-HSC (1) copy.webp"
+        "/Steps-Hardscaping-Services-HSC (1).webp"
       ],
       image: "/HSC-STEPS-Services-Hardscaping (1).webp",
       link: "#/services/masonry-brickwork"

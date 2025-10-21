@@ -106,7 +106,7 @@ const Groundskeeping: React.FC = () => {
       image: "/HSC-Maintenance-before (1).webp",
       beforeAfterImages: {
         before: "/HSC-Maintenance-before (1).webp",
-        after: "/HSC-Maintenance-AFTER (1) copy.webp"
+        after: "/HSC-Maintenance-AFTER (1).webp"
       },
       link: "#/services/groundskeeping"
     },
@@ -145,9 +145,9 @@ const Groundskeeping: React.FC = () => {
         ],
         benefits: "Regular property maintenance prevents costly repairs, maintains safety standards, and preserves property value. Our comprehensive approach addresses multiple maintenance needs efficiently and professionally."
       },
-      image: "/groundskeepning-cleanup-HSC-BEFORE (1) copy.webp",
+      image: "/groundskeepning-cleanup-HSC-BEFORE (1).webp",
       beforeAfterImages: {
-        before: "/groundskeepning-cleanup-HSC-BEFORE (1) copy.webp",
+        before: "/groundskeepning-cleanup-HSC-BEFORE (1).webp",
         after: "/Groundskeeping-HSC-cleanup-AFTER (1) copy.webp"
       },
       link: "#/services/groundskeeping"

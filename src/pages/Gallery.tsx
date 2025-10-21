@@ -16,7 +16,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Traditional Fencing Project", 
-      before: "/Gallery-Before-HSC-fencing (1) copy.webp",
+      before: "/Gallery-Before-HSC-fencing (1).webp",
       after: "/fencing-home-projects-HSC (1).webp",
       alt: "Traditional timber fencing installation transformation"
     },
@@ -49,7 +49,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Modern Patio Design", 
-     before: "/HSC-Patio-Before-Gallery (1) copy.webp",
+     before: "/HSC-Patio-Before-Gallery (1).webp",
       after: "/Patio-HSC-Landscaping-services (1) copy.webp",
       alt: "Contemporary patio with professional finishing"
     },
@@ -70,16 +70,16 @@ const Gallery: React.FC = () => {
         "/Before-PAtio-HSC-Gallery (2).webp",
         "/PAtio-Before-Gallery-HSC (1).webp",
         "/Gallery-Before-HSC-patio (1).webp",
-        "/After-Patios-HSC-Gallery (1) copy.webp",
+        "/After-Patios-HSC-Gallery (1).webp",
         "/Gallery-HSC-Patios-After (1).webp",
         "/HSC-After-Patios-Gallery (1).webp"
       ],
-      after: "/After-Patios-HSC-Gallery (1) copy.webp",
+      after: "/After-Patios-HSC-Gallery (1).webp",
       alt: "Patio seamlessly integrated with landscape design"
     },
     { 
       title: "Family Patio Space", 
-     before: "/Before-patios-HSC-Gallery (1) copy.webp",
+     before: "/Before-patios-HSC-Gallery (1).webp",
       after: "/Patios-hoe-projects-HSC (1).webp",
       alt: "Family-friendly patio installation"
     },
@@ -112,7 +112,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Professional Block Paving", 
       images: [
-        "/Pathway-monoblock-HSC-Landscaping (1) copy.webp",
+        "/Pathway-monoblock-HSC-Landscaping (1).webp",
         "/HSC-Hardscaping-Block-Paving.webp",
         "/Hardscaping-HSC-Block-Paving (1).webp"
       ],
@@ -176,7 +176,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Professional Steps", 
-      after: "/Steps-Hardscaping-Services-HSC (1) copy.webp",
+      after: "/Steps-Hardscaping-Services-HSC (1).webp",
       alt: "Professional steps and hardscaping"
     }
   ];
@@ -191,7 +191,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Quality Artificial Turf", 
-      before: "/Art-tirf-Before-HSC-Gallery (1) copy.webp",
+      before: "/Art-tirf-Before-HSC-Gallery (1).webp",
       after: "/artificial-turf-HSC-Service (1).webp",
       alt: "High-quality artificial turf installation transformation"
     },
@@ -213,7 +213,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Groundskeeping Cleanup", 
-      before: "/groundskeepning-cleanup-HSC-BEFORE (1) copy.webp",
+      before: "/groundskeepning-cleanup-HSC-BEFORE (1).webp",
       after: "/Groundskeeping-HSC-cleanup-AFTER (1) copy.webp",
       alt: "Complete groundskeeping cleanup service"
     },

@@ -337,12 +337,12 @@ const Landscaping: React.FC = () => {
         benefits: "Well-designed pathways improve garden accessibility, prevent lawn damage, and add structure to outdoor spaces. Our installations provide safe, attractive routes that complement your landscape design."
       },
       images: [
-        "/Pathway-monoblock-HSC-Landscaping (1) copy.webp",
+        "/Pathway-monoblock-HSC-Landscaping (1).webp",
         "/Monoblock-Pathway-HSC-Landscaping (1).webp",
         "/pathway-HSC-Monoblock (1).webp",
         "/monoblock-stairs-landscaping-HSC (1) copy.webp"
       ],
-      image: "/Pathway-monoblock-HSC-Landscaping (1) copy.webp",
+      image: "/Pathway-monoblock-HSC-Landscaping (1).webp",
       link: "#/services/landscaping"
     }
   ];
