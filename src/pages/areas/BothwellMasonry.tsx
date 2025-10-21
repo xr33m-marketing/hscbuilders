@@ -54,7 +54,7 @@ const BothwellMasonry: React.FC = () => {
   const bothwellProjects: Project[] = [
     {
       title: "Brickwork & Stone Masonry",
-      after: "/HSC-wall-Glasgow-landscaping (1).webp",
+      after: "/HSC-wall-Glasgow-landscaping (1) copy.webp",
       alt: "Expert brickwork and stone masonry"
     },
     {

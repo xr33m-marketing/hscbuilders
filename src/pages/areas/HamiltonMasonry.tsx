@@ -54,7 +54,7 @@ const HamiltonMasonry: React.FC = () => {
   const hamiltonProjects: Project[] = [
     {
       title: "Brickwork & Stone Masonry",
-      after: "/HSC-wall-Glasgow-landscaping (1).webp",
+      after: "/HSC-wall-Glasgow-landscaping (1) copy.webp",
       alt: "Expert brickwork and stone masonry"
     },
     {
