@@ -192,7 +192,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Quality Artificial Turf", 
       before: "/Art-tirf-Before-HSC-Gallery (1).webp",
-      after: "/artificial-turf-HSC-Service (1).webp",
+      after: "/art-turf-HSC-groundskeeping (1).webp",
       alt: "High-quality artificial turf installation transformation"
     },
     { 
@@ -207,8 +207,8 @@ const Gallery: React.FC = () => {
   const maintenance: Project[] = [
     { 
       title: "Garden Maintenance", 
-      before: "/HSC-Maintenance-before.webp",
-      after: "/HSC-Maintenance-AFTER.webp",
+      before: "/HSC-Maintenance-before (1).webp",
+      after: "/HSC-Maintenance-AFTER (1).webp",
       alt: "Professional garden maintenance transformation"
     },
     { 
