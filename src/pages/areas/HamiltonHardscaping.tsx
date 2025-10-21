@@ -148,7 +148,7 @@ const HamiltonHardscaping: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full md:hidden"
           style={{
-            backgroundImage: `url('/hardscaping-hero-HSC (1) copy.webp')`,
+            backgroundImage: `url('/hardscaping-hero-HSC (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
