@@ -56,7 +56,7 @@ const Gallery: React.FC = () => {
     {
       title: "Garden Patio Project",
      before: "/HSC-Before-Gallery-Patios (1).webp",
-      after: "/patio-HSC_landscaping (1) copy.webp",
+      after: "/patio-HSC_landscaping (1).webp",
       alt: "Garden patio with surrounding landscaping"
     },
     { 
@@ -145,7 +145,7 @@ const Gallery: React.FC = () => {
     },
     {
       title: "Masonry Wall Before",
-      before: "/wall-before-HSC-MASONRY (1) copy.webp",
+      before: "/wall-before-HSC-MASONRY (1).webp",
       after: "/WALl-after-HSC_MASONRY (2).webp",
       alt: "Masonry wall restoration transformation"
     }
@@ -233,7 +233,7 @@ const Gallery: React.FC = () => {
     },
     { 
       title: "Full Garden Transformation", 
-      after: "/HSC-Landscaping-Full-Renovation (1) copy copy.webp",
+      after: "/HSC-Landscaping-Full-Renovation (1).webp",
       alt: "Full garden transformation by HSC Builders"
     },
     { 
@@ -249,7 +249,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Complete Transformation", 
      before: "/full-transformation-HSC-Before (1) copy.webp",
-      after: "/Landscaping-HSC-Full-Transformation (1) copy.webp",
+      after: "/Landscaping-HSC-Full-Transformation (1).webp",
      alt: "Complete landscape transformation project transformation"
     },
     {
@@ -257,7 +257,7 @@ const Gallery: React.FC = () => {
      before: "/HSC-full-transformation-Before (1) copy.webp",
       after: "/GAllery-HSC-After-Full-Transformation (1).webp",
       images: [
-        "/Full-Transformation-HSC-After-Gallery (1) copy copy.webp",
+        "/Full-Transformation-HSC-After-Gallery (1).webp",
         "/HSC-Gallery-Full-TRansformation (1).webp",
         "/Full-Transformtation-HSC (1).webp",
         "/restoration-After-HSC-Masonry (1).webp",

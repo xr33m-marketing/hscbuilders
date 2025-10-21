@@ -64,7 +64,7 @@ const HamiltonGroundskeeping: React.FC = () => {
     },
     {
       title: "Seasonal Cleanup Services",
-      before: "/HSC-Maintenance-before (1) copy.webp",
+      before: "/HSC-Maintenance-before (1).webp",
       after: "/HSC-Maintenance-AFTER (1) copy.webp",
       alt: "Comprehensive seasonal cleanup"
     },

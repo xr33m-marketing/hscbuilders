@@ -140,7 +140,7 @@ const Hardscaping: React.FC = () => {
       images: [
         "/HSC-patio-landscaping (1).webp",
         "/Patio-HSC-Landscaping-services (1) copy.webp",
-        "/patio-HSC_landscaping (1) copy.webp",
+        "/patio-HSC_landscaping (1).webp",
         "/patio-landscaping-HSC (1).webp",
         "/landscaping-HSC-patio (1) copy.webp"
       ],

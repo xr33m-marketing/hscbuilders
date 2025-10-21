@@ -311,13 +311,13 @@ const Landscaping: React.FC = () => {
         benefits: "A full garden transformation provides the ultimate outdoor living experience, maximizing your property's potential and value. Our comprehensive approach ensures every element works together perfectly, creating cohesive outdoor spaces that enhance your lifestyle and provide years of enjoyment."
       },
       images: [
-        "/HSC-Landscaping-Full-Renovation (1) copy.webp",
+        "/HSC-Landscaping-Full-Renovation (1).webp",
         "/Landscaping-Full-Renovation-HS (1) copy.webp",
         "/Full-Renovation-LAndscaping-HSC (1).webp",
         "/Full-Renovation-HSC-Landscaping (1) copy.webp",
-        "/Landscaping-HSC-Full-Transformation (1) copy.webp"
+        "/Landscaping-HSC-Full-Transformation (1).webp"
       ],
-      image: "/HSC-Landscaping-Full-Renovation (1) copy.webp",
+      image: "/HSC-Landscaping-Full-Renovation (1).webp",
       link: "#/services/landscaping"
     },
     {

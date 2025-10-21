@@ -221,7 +221,7 @@ const MasonryBrickwork: React.FC = () => {
         },
         {
           before: "/HSC-before-restoration-MASONRY (1).webp",
-          after: "/Restoration-HSC-MASONRY (1) copy copy.webp"
+          after: "/Restoration-HSC-MASONRY (1).webp"
         }
       ],
       image: "/restoration-After-HSC-Masonry (1).webp",
@@ -273,7 +273,7 @@ const MasonryBrickwork: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full md:hidden"
           style={{
-            backgroundImage: `url('/Brickwork-hero (1) copy copy.webp')`,
+            backgroundImage: `url('/Brickwork-hero (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
@@ -286,7 +286,7 @@ const MasonryBrickwork: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full hidden md:block"
           style={{
-            backgroundImage: `url('/Brickwork-hero (1) copy copy.webp')`,
+            backgroundImage: `url('/Brickwork-hero (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'

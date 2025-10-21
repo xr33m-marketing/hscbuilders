@@ -103,9 +103,9 @@ const Groundskeeping: React.FC = () => {
         ],
         benefits: "Seasonal cleanup services prevent plant disease, improve garden health, and prepare outdoor spaces for optimal growing conditions. Professional cleanup saves time and ensures proper waste disposal."
       },
-      image: "/HSC-Maintenance-before (1) copy.webp",
+      image: "/HSC-Maintenance-before (1).webp",
       beforeAfterImages: {
-        before: "/HSC-Maintenance-before (1) copy.webp",
+        before: "/HSC-Maintenance-before (1).webp",
         after: "/HSC-Maintenance-AFTER (1) copy.webp"
       },
       link: "#/services/groundskeeping"

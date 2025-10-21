@@ -220,7 +220,7 @@ export default function OurProcessSection() {
       step: "Project Execution",
       title: "Professional Installation",
       content: "Our skilled team brings your design to life with precision and care, keeping you updated throughout the process and maintaining a clean, safe work environment.",
-      image: "/step4-professional-installation-HSC (1) copy copy copy copy.webp"
+      image: "/step4-professional-installation-HSC (1).webp"
     },
     {
       step: "Final Walkthrough",

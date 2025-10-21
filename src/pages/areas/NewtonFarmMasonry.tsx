@@ -129,7 +129,7 @@ const NewtonFarmMasonry: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full md:hidden"
           style={{
-            backgroundImage: `url('/Brickwork-hero (1) copy copy.webp')`,
+            backgroundImage: `url('/Brickwork-hero (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
@@ -142,7 +142,7 @@ const NewtonFarmMasonry: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full"
           style={{
-            backgroundImage: `url('/Brickwork-hero (1) copy copy.webp')`,
+            backgroundImage: `url('/Brickwork-hero (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
