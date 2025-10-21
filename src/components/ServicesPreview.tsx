@@ -188,7 +188,7 @@ const ServicesPreview: React.FC = () => {
                   <div className="relative overflow-hidden rounded-xl shadow-card">
                     {/* Before Image */}
                     <img
-                      src="/groundskeepiing-home-before-HSC (1) copy.webp"
+                      src="/groundskeepiing-home-before-HSC (1).webp"
                       alt="Before - Groundskeeping transformation"
                       className={`w-full h-80 object-cover hover:scale-105 transition-all duration-1000 absolute inset-0 ${
                         currentImageIndex === 0 ? 'opacity-100' : 'opacity-0'

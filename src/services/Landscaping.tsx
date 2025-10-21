@@ -236,7 +236,7 @@ const Landscaping: React.FC = () => {
         benefits: "Professional turf laying creates an instant, beautiful lawn that establishes quickly with proper care. We ensure optimal growing conditions for long-term lawn health and appearance."
       },
       beforeAfterImages: {
-        before: "/groundskeepiing-home-before-HSC (1) copy.webp",
+        before: "/groundskeepiing-home-before-HSC (1).webp",
         after: "/groundskeeping-home-HSC (1).webp"
       },
       image: "/groundskeeping-home-HSC (1).webp",
@@ -264,12 +264,12 @@ const Landscaping: React.FC = () => {
       },
       images: [
         "/Compostite-fencing-HSC-home (1) copy.webp",
-        "/fencing-home-projects-HSC (1) copy.webp",
-        "/HSC-fencing-SERVICES (1) copy.webp",
+        "/fencing-home-projects-HSC (1).webp",
+        "/HSC-fencing-SERVICES (1).webp",
         "/SERVICES-fencing-HSC (1).webp",
-        "/fencing-HSC-SERVICES-Landscaping (1) copy.webp"
+        "/fencing-HSC-SERVICES-Landscaping (1).webp"
       ],
-      image: "/fencing-home-projects-HSC (1) copy.webp",
+      image: "/fencing-home-projects-HSC (1).webp",
       link: "#/services/landscaping"
     },
     {
@@ -339,7 +339,7 @@ const Landscaping: React.FC = () => {
       images: [
         "/Pathway-monoblock-HSC-Landscaping (1) copy.webp",
         "/Monoblock-Pathway-HSC-Landscaping (1).webp",
-        "/pathway-HSC-Monoblock (1) copy.webp",
+        "/pathway-HSC-Monoblock (1).webp",
         "/monoblock-stairs-landscaping-HSC (1) copy.webp"
       ],
       image: "/Pathway-monoblock-HSC-Landscaping (1) copy.webp",

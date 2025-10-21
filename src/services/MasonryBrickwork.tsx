@@ -191,7 +191,7 @@ const MasonryBrickwork: React.FC = () => {
       images: [
         "/HSC-STEPS-Services-Hardscaping (1).webp",
         "/HSC-path-Hardscaping-Services (1).webp",
-        "/HSC-Hardscaping-Steps-Services (1) copy.webp",
+        "/HSC-Hardscaping-Steps-Services (1).webp",
         "/Steps-Services-HArdscaping-HSC (1).webp",
         "/Steps-Hardscaping-Services-HSC (1) copy.webp"
       ],

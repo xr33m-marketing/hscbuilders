@@ -17,13 +17,13 @@ const Gallery: React.FC = () => {
     { 
       title: "Traditional Fencing Project", 
       before: "/Gallery-Before-HSC-fencing (1) copy.webp",
-      after: "/fencing-home-projects-HSC (1) copy.webp",
+      after: "/fencing-home-projects-HSC (1).webp",
       alt: "Traditional timber fencing installation transformation"
     },
     { 
       title: "Landscaping Fencing Services", 
       before: "/BEfore-HSC-Fencing-Gallery (1).webp",
-      after: "/HSC-fencing-SERVICES (1) copy.webp",
+      after: "/HSC-fencing-SERVICES (1).webp",
       alt: "Professional fencing as part of landscaping project transformation"
     },
     { 
@@ -35,7 +35,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Fencing Installation", 
       before: "/fencing-before-HSC-GAllery.webp",
-      after: "/fencing-HSC-SERVICES-Landscaping (1) copy.webp",
+      after: "/fencing-HSC-SERVICES-Landscaping (1).webp",
       alt: "Professional fencing installation transformation"
     }
   ];
@@ -72,7 +72,7 @@ const Gallery: React.FC = () => {
         "/Gallery-Before-HSC-patio (1).webp",
         "/After-Patios-HSC-Gallery (1) copy.webp",
         "/Gallery-HSC-Patios-After (1).webp",
-        "/HSC-After-Patios-Gallery (1) copy.webp"
+        "/HSC-After-Patios-Gallery (1).webp"
       ],
       after: "/After-Patios-HSC-Gallery (1) copy.webp",
       alt: "Patio seamlessly integrated with landscape design"
@@ -89,7 +89,7 @@ const Gallery: React.FC = () => {
         "/Before-PAtio-HSC-Gallery (1).webp",
         "/During-HSC-Patios-GAllery (1).webp",
         "/After-HSC-Gallery-Patios (1).webp",
-        "/after2-HSC-patios-Gallery (1) copy.webp",
+        "/after2-HSC-patios-Gallery (1).webp",
         "/after3-Patios-HSC-GAllery (1).webp"
       ],
       after: "/After-HSC-Gallery-Patios (1).webp",
@@ -166,7 +166,7 @@ const Gallery: React.FC = () => {
     { 
       title: "Hardscaping Steps", 
      before: "/Steps-Before-HSC-Gallery (1).webp",
-      after: "/HSC-Hardscaping-Steps-Services (1) copy.webp",
+      after: "/HSC-Hardscaping-Steps-Services (1).webp",
       alt: "Hardscaping steps with professional finish"
     },
     { 
