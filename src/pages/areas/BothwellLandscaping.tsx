@@ -54,8 +54,8 @@ const BothwellLandscaping: React.FC = () => {
   const bothwellProjects: Project[] = [
     {
       title: "Artificial Turf Installation",
-      before: "/artificial-turf-HSC-Before-Gallery (1) copy.webp",
-      after: "/art-turf-home-projects-HSC (1) copy.webp",
+      before: "/artificial-turf-HSC-Before-Gallery (1).webp",
+      after: "/art-turf-home-projects-HSC (1).webp",
       alt: "High-quality artificial turf installation"
     },
     {

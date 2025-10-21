@@ -46,7 +46,7 @@ const Groundskeeping: React.FC = () => {
         ],
         benefits: "Regular professional lawn care maintains healthy grass growth, prevents weed infestations, and keeps your property looking pristine year-round. Our systematic approach ensures consistent results and long-term lawn health."
       },
-      image: "/art-turf-home-projects-HSC (1) copy.webp",
+      image: "/art-turf-home-projects-HSC (1).webp",
       link: "#/services/groundskeeping"
     },
     {

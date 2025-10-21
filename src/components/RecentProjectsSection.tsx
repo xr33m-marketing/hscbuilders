@@ -25,7 +25,7 @@ const RecentProjectsSection = () => {
     {
       title: "Artificial Turf Installation",
       description: "Low-maintenance artificial grass",
-      image: "/art-turf-home-projects-HSC (1) copy.webp",
+      image: "/art-turf-home-projects-HSC (1).webp",
       icon: <TreePine size={24} className="text-white" />,
       link: "#/services/landscaping",
       location: "Greater Glasgow"

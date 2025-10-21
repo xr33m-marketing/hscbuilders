@@ -68,10 +68,10 @@ const Gallery: React.FC = () => {
       title: "Integrated Patio & Landscaping", 
       images: [
         "/Before-PAtio-HSC-Gallery (2).webp",
-        "/PAtio-Before-Gallery-HSC (1) copy.webp",
+        "/PAtio-Before-Gallery-HSC (1).webp",
         "/Gallery-Before-HSC-patio (1) copy.webp",
         "/After-Patios-HSC-Gallery (1) copy.webp",
-        "/Gallery-HSC-Patios-After (1) copy.webp",
+        "/Gallery-HSC-Patios-After (1).webp",
         "/HSC-After-Patios-Gallery (1) copy.webp"
       ],
       after: "/After-Patios-HSC-Gallery (1) copy.webp",
@@ -102,11 +102,11 @@ const Gallery: React.FC = () => {
     { 
       title: "Expert Block Paving Project", 
       images: [
-        "/HSC-Block-Paving-Hardscaping (1) copy.webp",
+        "/HSC-Block-Paving-Hardscaping (1).webp",
         "/Block-paving-Hardscaping-HSC (1).webp",
         "/garden-bed-planting-HSC (1) copy.webp"
       ],
-      after: "/HSC-Block-Paving-Hardscaping (1) copy.webp",
+      after: "/HSC-Block-Paving-Hardscaping (1).webp",
       alt: "High-quality block paving driveway"
     },
     { 
@@ -185,8 +185,8 @@ const Gallery: React.FC = () => {
   const turf: Project[] = [
     { 
       title: "Artificial Turf Installation", 
-     before: "/artificial-turf-HSC-Before-Gallery (1) copy.webp",
-      after: "/art-turf-home-projects-HSC (1) copy.webp",
+     before: "/artificial-turf-HSC-Before-Gallery (1).webp",
+      after: "/art-turf-home-projects-HSC (1).webp",
       alt: "Professional artificial turf installation"
     },
     { 

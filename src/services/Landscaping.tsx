@@ -43,10 +43,10 @@ const landscapingServices = [
       benefits: "Artificial turf provides year-round green lawns with minimal maintenance, no watering requirements, and excellent durability. Perfect for busy households, pet owners, and areas with poor growing conditions."
     },
     images: [
-      "/art-turf-home-projects-HSC (1) copy.webp",
+      "/art-turf-home-projects-HSC (1).webp",
       "/artificial-turf-HSC-Service (1) copy.webp"
     ],
-    image: "/art-turf-home-projects-HSC (1) copy.webp",
+    image: "/art-turf-home-projects-HSC (1).webp",
     link: "#/services/landscaping"
   },
   {
@@ -208,15 +208,15 @@ const Landscaping: React.FC = () => {
         benefits: "Artificial turf provides a consistently green, low-maintenance lawn that saves water, eliminates mowing, and stays beautiful year-round. Perfect for busy families, pet owners, and areas with poor growing conditions."
       },
       beforeAfterImages: {
-        before: "/artificial-turf-HSC-Before-Gallery (1) copy.webp",
-        after: "/art-turf-home-projects-HSC (1) copy.webp"
+        before: "/artificial-turf-HSC-Before-Gallery (1).webp",
+        after: "/art-turf-home-projects-HSC (1).webp"
       },
       images: [
-        "/art-turf-home-projects-HSC (1) copy.webp",
+        "/art-turf-home-projects-HSC (1).webp",
         "/artificial-turf-HSC-Service (1) copy.webp",
         "/turf-artificial-HSC-Service (1) copy.webp"
       ],
-      image: "/art-turf-home-projects-HSC (1) copy.webp",
+      image: "/art-turf-home-projects-HSC (1).webp",
       link: "#/services/landscaping"
     },
     {

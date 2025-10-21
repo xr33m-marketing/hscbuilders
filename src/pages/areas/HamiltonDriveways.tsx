@@ -54,7 +54,7 @@ const HamiltonDriveways: React.FC = () => {
   const hamiltonProjects: Project[] = [
     {
       title: "Block Paving Project 1",
-      after: "/HSC-Block-Paving-Hardscaping (1) copy.webp",
+      after: "/HSC-Block-Paving-Hardscaping (1).webp",
       alt: "Professional block paving driveway"
     },
     {

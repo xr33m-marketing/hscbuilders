@@ -47,7 +47,7 @@ const HeroSection: React.FC = () => {
       <div 
         className="absolute inset-0 w-full h-full md:hidden"
         style={{
-          backgroundImage: `url('/hero-image-mobile-home (1) copy.webp')`,
+          backgroundImage: `url('/hero-image-mobile-home (1).webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat'
@@ -60,7 +60,7 @@ const HeroSection: React.FC = () => {
       <div
         className="absolute inset-0 w-full h-full hidden md:block"
         style={{
-          backgroundImage: `url('/hero-home-hsc (1) copy copy.webp')`,
+          backgroundImage: `url('/hero-home-hsc (1).webp')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat'

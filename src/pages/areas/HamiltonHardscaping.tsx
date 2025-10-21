@@ -59,7 +59,7 @@ const HamiltonHardscaping: React.FC = () => {
     },
     {
       title: "Block Paving Project 1",
-      after: "/HSC-Block-Paving-Hardscaping (1) copy.webp",
+      after: "/HSC-Block-Paving-Hardscaping (1).webp",
       alt: "Quality block paving driveway"
     },
     {
@@ -161,7 +161,7 @@ const HamiltonHardscaping: React.FC = () => {
         <div
           className="absolute inset-0 w-full h-full"
           style={{
-            backgroundImage: `url('/Hero-hardscaping-HSC-DESKtop (1) copy.webp')`,
+            backgroundImage: `url('/Hero-hardscaping-HSC-DESKtop (1).webp')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
