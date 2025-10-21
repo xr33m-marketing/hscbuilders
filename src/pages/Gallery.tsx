@@ -183,16 +183,16 @@ const Gallery: React.FC = () => {
 
   // Artificial Turf & Landscaping
   const turf: Project[] = [
-    { 
-      title: "Artificial Turf Installation", 
-     before: "/artificial-turf-HSC-Before-Gallery (1).webp",
+    {
+      title: "Artificial Turf Installation",
+     before: "/artificial-turf-HSC-Before-Gallery (1) copy.webp",
       after: "/art-turf-home-projects-HSC (1).webp",
       alt: "Professional artificial turf installation"
     },
-    { 
-      title: "Quality Artificial Turf", 
+    {
+      title: "Quality Artificial Turf",
       before: "/Art-tirf-Before-HSC-Gallery (1).webp",
-      after: "/art-turf-HSC-groundskeeping (1).webp",
+      after: "/art-turf-HSC-groundskeeping (1) copy.webp",
       alt: "High-quality artificial turf installation transformation"
     },
     { 
@@ -211,10 +211,10 @@ const Gallery: React.FC = () => {
       after: "/HSC-Maintenance-AFTER (1).webp",
       alt: "Professional garden maintenance transformation"
     },
-    { 
-      title: "Groundskeeping Cleanup", 
+    {
+      title: "Groundskeeping Cleanup",
       before: "/groundskeepning-cleanup-HSC-BEFORE (1).webp",
-      after: "/Groundskeeping-HSC-cleanup-AFTER (1).webp",
+      after: "/groundskeeping-home-HSC (1) copy.webp",
       alt: "Complete groundskeeping cleanup service"
     },
     { 
@@ -269,7 +269,7 @@ const Gallery: React.FC = () => {
     {
       title: "Complete Landscaping Project",
       before: "/Full-Landscaping-HSC-Gallery (1).webp",
-      after: "/landscaping-hero-hsc (1).webp",
+      after: "/Gallery-HSC-After-Landscaping (2).webp",
       alt: "Complete landscaping transformation with modern outdoor design"
     }
   ];
