@@ -7,13 +7,18 @@ export default defineConfig({
   publicDir: 'public',
   assetsInclude: ['**/*.webp'],
   optimizeDeps: {
+    include: ['react', 'react-dom', 'framer-motion'],
     exclude: ['lucide-react'],
   },
   build: {
+    commonjsOptions: {
+      include: [/node_modules/],
+    },
     rollupOptions: {
       output: {
         manualChunks: {
           'react-vendor': ['react', 'react-dom'],
+          'framer-motion': ['framer-motion'],
         },
       },
     },
